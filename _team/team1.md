@@ -10,7 +10,7 @@ feature_row1:
     title: "Labmate 2"
     excerpt: "Link to website, 2 sentence version here"
   - image_path: /images/sunglasses.jpg
-  	alt: "placeholder image 3"
+    alt: "placeholder image 3"
     title: "Labmate 3"
     excerpt: "Link to website, 2 sentences here"
 feature_row2:
@@ -23,7 +23,7 @@ feature_row2:
     title: "Labmate 5"
     excerpt: "Link to website, 2 sentence version here"
   - image_path: /images/sunglasses.jpg
-  	alt: "placeholder image 3"
+    alt: "placeholder image 3"
     title: "Labmate 6"
     excerpt: "Link to website, 2 sentences here"	
 ---
