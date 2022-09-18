@@ -1,5 +1,8 @@
 ---
 permalink: /
+layout: splash
+header:
+  overlay_image: /images/nile_usgs_unsplash.jpg
 title: ""
 toc: true
 excerpt: "About me"
