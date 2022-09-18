@@ -30,6 +30,7 @@ row2:
 ---
 
 Team
+Teamwork makes the dream work
 {% include feature_row id="row1" %}
 {% include feature_row id="row2" %}
 

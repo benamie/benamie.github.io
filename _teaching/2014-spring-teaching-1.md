@@ -19,11 +19,10 @@ row2:
     alt: "placeholder image 4"
     title: "Labmate 4"
     excerpt: "Link to website, 2 sentence version here"
-  - image_path: /images/glasses.png
-    alt: "placeholder image 5"
+  - image_path: <img src="benamie.github.io/images/glasses.png" alt="placeholder image 5">
     title: "Labmate 5"
     excerpt: "Link to website, 2 sentence version here"
-  - image_path: /images/sunglasses.jpg
+  - image_path: ![sunglasses](benamie.github.io/images/sunglasses.jpg)
     alt: "placeholder image 6"
     title: "Labmate 6"
     excerpt: "Link to website, 2 sentences here"	
