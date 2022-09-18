@@ -1,20 +1,33 @@
 ---
-title: "Teaching experience 1"
+title: "Team gallery"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/current/
+feature_row:
+  - image_path: /images/sunglasses.jpg
+    alt: "placeholder image 1"
+    title: "Teammate 1"
+    excerpt: "Link to website, 2 sentence version here"
+  - image_path: /images/glasses.png
+    alt: "placeholder image 2"
+    title: "Labmate 2"
+    excerpt: "Link to website, 2 sentence version here"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /images/sunglasses.jpg
+    title: "Labmate 3"
+    excerpt: "Link to website, 2 sentences here"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+{% include feature_row %}
 
-Heading 1
-======
+**Teamwork makes the dreamwork.**
 
-Heading 2
+Current Students
 ======
+Lorem ipsum
 
-Heading 3
+
+Alumnae/i
 ======
+Lorem ipsum dolcit
