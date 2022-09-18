@@ -1,10 +1,10 @@
 ---
 title: "Team gallery"
 collection: teaching
-feature_row:
+feature_row1:
   - image_path: /images/sunglasses.jpg
     alt: "placeholder image 1"
-    title: "Teammate 1"
+    title: "Labmate 1"
     excerpt: "Link to website, 2 sentence version here"
   - image_path: /images/glasses.png
     alt: "placeholder image 2"
@@ -14,17 +14,20 @@ feature_row:
   	alt: "placeholder image 3"
     title: "Labmate 3"
     excerpt: "Link to website, 2 sentences here"
+feature_row2:
+  - image_path: /images/sunglasses.jpg
+    alt: "placeholder image 1"
+    title: "Labmate 4"
+    excerpt: "Link to website, 2 sentence version here"
+  - image_path: /images/glasses.png
+    alt: "placeholder image 2"
+    title: "Labmate 5"
+    excerpt: "Link to website, 2 sentence version here"
+  - image_path: /images/sunglasses.jpg
+  	alt: "placeholder image 3"
+    title: "Labmate 6"
+    excerpt: "Link to website, 2 sentences here"	
 ---
 
-{% include feature_row %}
-
-**Teamwork makes the dreamwork.**
-
-Current Students
-======
-Lorem ipsum
-
-
-Alumnae/i
-======
-Lorem ipsum dolcit
+{% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row2" %}
