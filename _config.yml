@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Elinor Benami"
+title                    : "An under construction website"
 title_separator          : "-"
 name                     : &name "Elinor Benami"
 description              : &description "asst prof <br/> virginia tech"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Elinor Benami"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Virginia Tech"
-  location         : "Blacksburg, VA"
+  bio              : "Assistant Professor at [Virginia Tech](https://aaec.vt.edu/)"
+  location         : "[Blacksburg, VA](https://www.google.com/maps/place/Blacksburg,+VA/@37.2304464,-80.4645601,13z/data=!3m1!4b1!4m5!3m4!1s0x884d950adc06dcc3:0x86ceb8ea4842da2d!8m2!3d37.2295733!4d-80.4139393)"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=u9CNkaIAAAAJ&hl=en&inst=13410158990364976897"
