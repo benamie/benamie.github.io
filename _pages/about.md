@@ -30,8 +30,8 @@ Come join the Lab!
 ======
 > 📝 **This year, I am actively recruiting motivated Postdocs, PhD, MS students, and potential research assistants with interests in risk prediction and management.** In addition, I have opportunities for motivated Virginia Tech undergraduates interested in research.
 
-* Prospective PhD students: Please apply to the Virginia Tech AAEC program [through the normal channels](https://aaec.vt.edu/academics/graduate/visiting.html), and mention my name in your application. Reach out in advance to discuss particular fellowships available for incoming VT students.
-* Current Virginia Tech PhD, MS, and undergraduate students, as well as prospective Postdocs and RAs: Please send me email describing your research interests, your skills/background related to my work, and your CV/resume.
+* **Prospective PhD students**: Please apply to the Virginia Tech AAEC program [through the normal channels](https://aaec.vt.edu/academics/graduate/visiting.html), and mention my name in your application. Reach out in advance to discuss particular fellowships available for incoming VT students.
+* **Current Virginia Tech PhD, MS, and undergraduate students, as well as prospective Postdocs and RAs**: Please send me an email describing your research interests, your skills/background related to my work, and your CV/resume. 
 
 
 <!--Site-wide configuration
