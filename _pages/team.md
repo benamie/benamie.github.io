@@ -1,4 +1,7 @@
 ---
+layout: archive
+title: "Team"
+permalink: /team/
 feature_row:
   - image_path: /images/sunglasses.jpg
     alt: "placeholder image 1"
@@ -15,7 +18,5 @@ feature_row:
     title: "Labmate 3"
     excerpt: "Link to website, 2 sentences here"
 ---
-
-Our lab is great!
 
 {% include feature_row %}
