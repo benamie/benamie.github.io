@@ -1,7 +1,7 @@
 ---
 title: "Team gallery"
 collection: team
-feature_row1:
+row1:
   - image_path: /images/sunglasses.jpg
     alt: "placeholder image 1"
     title: "Labmate 1"
@@ -14,7 +14,7 @@ feature_row1:
     alt: "placeholder image 3"
     title: "Labmate 3"
     excerpt: "Link to website, 2 sentences here"
-feature_row2:
+row2:
   - image_path: sunglasses.jpg
     alt: "placeholder image 4"
     title: "Labmate 4"
@@ -30,8 +30,8 @@ feature_row2:
 ---
 
 Team
-{% include feature_row id="feature_row1" %}
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="row1" %}
+{% include feature_row id="row2" %}
 
 
 

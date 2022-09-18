@@ -15,7 +15,7 @@ row1:
     title: "Labmate 3"
     excerpt: "Link to website, 2 sentences here"
 row2:
-  - image_path: /images/sunglasses.jpg
+  - image_path: ![sunglasses](/images/sunglasses.jpg)
     alt: "placeholder image 4"
     title: "Labmate 4"
     excerpt: "Link to website, 2 sentence version here"
