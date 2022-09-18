@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+> 📝 {: .notice} **This year, I am actively recruiting motivated Postdocs, PhD, MS students, and potential research assistants with interests in risk prediction and management.** In addition, I have opportunities for motivated Virginia Tech undergraduates interested in research.
+- Prospective PhD students: Please apply to the Virginia Tech AAEC program [through the normal channels](https://aaec.vt.edu/academics/graduate/visiting.html), and mention my name in your application. Reach out in advance to discuss particular fellowships available for incoming VT students.
+
+- Current Virginia Tech PhD, MS, and undergraduate students, as well as prospective Postdocs and RAs: Please send me email describing your research interests, your skills/background related to my work, and your CV/resume.
+
 
 Hi! I’m Elinor, an Assistant Professor at Virginia Tech in the [Agricultural and Applied Economics Department](https://aaec.vt.edu).  I’m also a faculty affiliate of the [VT Remote Sensing Graduate Education Group](https://rsigep.frec.vt.edu/), the [Global Change Center](https://www.globalchange.vt.edu/), the [Center for Advanced Innovation in Agriculture](https://caia.cals.vt.edu/), as well as the [Stanford RegLab](https://reglab.stanford.edu/).
 
@@ -25,12 +30,12 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 Before grad school, I was a research analyst at [Climate Policy Initiative](https://climatepolicyinitiative.org/), where I worked on renewable energy finance in the US and tropical land use following my studies of economics and environmental science at UNC-Chapel Hill. I’m also a licensed [amateur radio operator](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service) (call sign K6NMI).
 
 
-Come join the Lab!
+<!--Come join the Lab!
 ======
 {: .notice} **This year, I am actively recruiting motivated Postdocs, PhD, MS students, and potential research assistants with interests in risk prediction and management.** In addition, I have opportunities for motivated Virginia Tech undergraduates interested in research.
 - Prospective PhD students: Please apply to the Virginia Tech AAEC program [through the normal channels](https://aaec.vt.edu/academics/graduate/visiting.html), and mention my name in your application. Reach out in advance to discuss particular fellowships available for incoming VT students.
 
-- Current Virginia Tech PhD, MS, and undergraduate students, as well as prospective Postdocs and RAs: Please send me email describing your research interests, your skills/background related to my work, and your CV/resume.
+- Current Virginia Tech PhD, MS, and undergraduate students, as well as prospective Postdocs and RAs: Please send me email describing your research interests, your skills/background related to my work, and your CV/resume. -->
 
 
 <!--Site-wide configuration
