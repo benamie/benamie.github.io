@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Elinor Benami"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Assistant Professor at Virginia Tech"
   location         : "Blacksburg, VA"
   employer         :
