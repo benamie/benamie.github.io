@@ -28,7 +28,16 @@ row2:
     excerpt: "Link to website, 2 sentences here"	
 ---
 
-Team makes the dream work
+Team makes the dream work! As of Fall 2022 the HECTA Lab (Human Environment CompuTing and Ag Lab) consists of:
+- Armine Poghosyan 
+- Ozzy Campos
+- Sambath Jayapregasham
+- Yuetong Zhang
+- Riley Rudd
+- Ari Liverpool
+
+Pictures and brief bios forthcoming!
+
 {% include feature_row id="row1" %}
 {% include feature_row id="row2" %}
 
