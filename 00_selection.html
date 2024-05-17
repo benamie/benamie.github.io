@@ -4542,7 +4542,7 @@ margin: auto;
 <details>
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb38"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb38-1"><a href="#cb38-1"></a><span class="co"># Define the flagged_fraction as 75% for flagged applications</span></span>
-<span id="cb38-2"><a href="#cb38-2"></a>flagged_fraction <span class="ot">&lt;-</span> <span class="fl">0.75</span></span>
+<span id="cb38-2"><a href="#cb38-2"></a>flagged_fraction <span class="ot">&lt;-</span> <span class="fl">0.76</span></span>
 <span id="cb38-3"><a href="#cb38-3"></a></span>
 <span id="cb38-4"><a href="#cb38-4"></a><span class="co"># First, select 75% of all ND applicants and 50% of all VA applicants, including both flagged and unflagged applications</span></span>
 <span id="cb38-5"><a href="#cb38-5"></a>applications_selection_status <span class="ot">&lt;-</span> </span>
@@ -4963,8 +4963,10 @@ margin: auto;
 </div>
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb46"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb46-1"><a href="#cb46-1"></a><span class="fu">write.csv</span>(all_farms_ordered_final, <span class="at">file =</span> <span class="fu">paste0</span>(<span class="fu">data_path</span>(<span class="st">&quot;vt_alliance/all_farms_ordered_final_updated&quot;</span>), today_date, <span class="st">&quot;.csv&quot;</span>),</span>
-<span id="cb46-2"><a href="#cb46-2"></a>          <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb46"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb46-1"><a href="#cb46-1"></a><span class="fu">write.csv</span>(all_farms_ordered_final, </span>
+<span id="cb46-2"><a href="#cb46-2"></a>          <span class="at">file =</span> <span class="fu">paste0</span>(<span class="fu">data_path</span>(<span class="st">&quot;vt_alliance/selection_files/all_farms_ordered_final_updated_&quot;</span>),</span>
+<span id="cb46-3"><a href="#cb46-3"></a>                        today_date, <span class="st">&quot;.csv&quot;</span>),</span>
+<span id="cb46-4"><a href="#cb46-4"></a>          <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 </section>
@@ -5046,25 +5048,25 @@ margin: auto;
 <td style="text-align: left;">1</td>
 <td style="text-align: left;">north_dakota</td>
 <td style="text-align: left;">0.75</td>
-<td style="text-align: left;">2,604,776</td>
-<td style="text-align: left;">30,290</td>
-<td style="text-align: left;">151</td>
-<td style="text-align: left;">167</td>
-<td style="text-align: left;">151</td>
+<td style="text-align: left;">2,624,776</td>
+<td style="text-align: left;">30,610</td>
+<td style="text-align: left;">152</td>
+<td style="text-align: left;">168</td>
+<td style="text-align: left;">152</td>
 <td style="text-align: left;">1</td>
-<td style="text-align: left;">10</td>
+<td style="text-align: left;">11</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Total</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">5,509,336</td>
-<td style="text-align: left;">76,661</td>
-<td style="text-align: left;">332</td>
-<td style="text-align: left;">377</td>
-<td style="text-align: left;">151</td>
+<td style="text-align: left;">5,529,336</td>
+<td style="text-align: left;">76,981</td>
+<td style="text-align: left;">333</td>
+<td style="text-align: left;">378</td>
+<td style="text-align: left;">152</td>
 <td style="text-align: left;">1</td>
-<td style="text-align: left;">10</td>
+<td style="text-align: left;">11</td>
 </tr>
 </tbody>
 </table>
@@ -5246,37 +5248,37 @@ margin: auto;
 <td style="text-align: left;">1</td>
 <td style="text-align: left;">north_dakota</td>
 <td style="text-align: left;">0.75</td>
-<td style="text-align: left;">2,604,776</td>
-<td style="text-align: left;">30,290</td>
-<td style="text-align: left;">151</td>
-<td style="text-align: left;">167</td>
-<td style="text-align: left;">151</td>
+<td style="text-align: left;">2,624,776</td>
+<td style="text-align: left;">30,610</td>
+<td style="text-align: left;">152</td>
+<td style="text-align: left;">168</td>
+<td style="text-align: left;">152</td>
 <td style="text-align: left;">1</td>
-<td style="text-align: left;">10</td>
+<td style="text-align: left;">11</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">state subtotal</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">5,509,336</td>
-<td style="text-align: left;">76,661</td>
-<td style="text-align: left;">332</td>
-<td style="text-align: left;">377</td>
-<td style="text-align: left;">151</td>
+<td style="text-align: left;">5,529,336</td>
+<td style="text-align: left;">76,981</td>
+<td style="text-align: left;">333</td>
+<td style="text-align: left;">378</td>
+<td style="text-align: left;">152</td>
 <td style="text-align: left;">1</td>
-<td style="text-align: left;">10</td>
+<td style="text-align: left;">11</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">Total</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">8,525,751</td>
-<td style="text-align: left;">120,748</td>
-<td style="text-align: left;">601</td>
-<td style="text-align: left;">663</td>
-<td style="text-align: left;">317</td>
+<td style="text-align: left;">8,545,751</td>
+<td style="text-align: left;">121,068</td>
+<td style="text-align: left;">602</td>
+<td style="text-align: left;">664</td>
+<td style="text-align: left;">318</td>
 <td style="text-align: left;">15</td>
-<td style="text-align: left;">38</td>
+<td style="text-align: left;">39</td>
 </tr>
 </tbody>
 </table>
@@ -5312,8 +5314,8 @@ margin: auto;
 <td style="text-align: left;">north_dakota</td>
 <td style="text-align: right;">445</td>
 <td style="text-align: right;">16</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">0.75</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">0.81</td>
 <td style="text-align: right;">0.03</td>
 </tr>
 <tr class="even">
@@ -6230,7 +6232,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-591"><a href="#cb51-591"></a></span>
 <span id="cb51-592"><a href="#cb51-592"></a><span class="in">```{r apply_thresholds}</span></span>
 <span id="cb51-593"><a href="#cb51-593"></a><span class="co"># Define the flagged_fraction as 75% for flagged applications</span></span>
-<span id="cb51-594"><a href="#cb51-594"></a>flagged_fraction <span class="ot">&lt;-</span> <span class="fl">0.75</span></span>
+<span id="cb51-594"><a href="#cb51-594"></a>flagged_fraction <span class="ot">&lt;-</span> <span class="fl">0.76</span></span>
 <span id="cb51-595"><a href="#cb51-595"></a></span>
 <span id="cb51-596"><a href="#cb51-596"></a><span class="co"># First, select 75% of all ND applicants and 50% of all VA applicants, including both flagged and unflagged applications</span></span>
 <span id="cb51-597"><a href="#cb51-597"></a>applications_selection_status <span class="ot">&lt;-</span> </span>
@@ -6583,127 +6585,129 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-946"><a href="#cb51-946"></a>  <span class="fu">select</span>(flag_for_review, selection_status, entry_id, state, county,lrp_sdp_priority_flag,  <span class="fu">everything</span>()) <span class="sc">%&gt;%</span> </span>
 <span id="cb51-947"><a href="#cb51-947"></a>  <span class="fu">head</span>()</span>
 <span id="cb51-948"><a href="#cb51-948"></a>  </span>
-<span id="cb51-949"><a href="#cb51-949"></a><span class="fu">write.csv</span>(all_farms_ordered_final, <span class="at">file =</span> <span class="fu">paste0</span>(<span class="fu">data_path</span>(<span class="st">&quot;vt_alliance/all_farms_ordered_final_updated&quot;</span>), today_date, <span class="st">&quot;.csv&quot;</span>),</span>
-<span id="cb51-950"><a href="#cb51-950"></a>          <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb51-951"><a href="#cb51-951"></a><span class="in">```</span></span>
-<span id="cb51-952"><a href="#cb51-952"></a></span>
-<span id="cb51-953"><a href="#cb51-953"></a><span class="in">```{r runall}</span></span>
+<span id="cb51-949"><a href="#cb51-949"></a><span class="fu">write.csv</span>(all_farms_ordered_final, </span>
+<span id="cb51-950"><a href="#cb51-950"></a>          <span class="at">file =</span> <span class="fu">paste0</span>(<span class="fu">data_path</span>(<span class="st">&quot;vt_alliance/selection_files/all_farms_ordered_final_updated_&quot;</span>),</span>
+<span id="cb51-951"><a href="#cb51-951"></a>                        today_date, <span class="st">&quot;.csv&quot;</span>),</span>
+<span id="cb51-952"><a href="#cb51-952"></a>          <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb51-953"><a href="#cb51-953"></a><span class="in">```</span></span>
 <span id="cb51-954"><a href="#cb51-954"></a></span>
-<span id="cb51-955"><a href="#cb51-955"></a><span class="in">```</span></span>
+<span id="cb51-955"><a href="#cb51-955"></a><span class="in">```{r runall}</span></span>
 <span id="cb51-956"><a href="#cb51-956"></a></span>
-<span id="cb51-957"><a href="#cb51-957"></a><span class="fu"># Generate summary of output for selected thresholds</span></span>
+<span id="cb51-957"><a href="#cb51-957"></a><span class="in">```</span></span>
 <span id="cb51-958"><a href="#cb51-958"></a></span>
-<span id="cb51-959"><a href="#cb51-959"></a>In order to have a credible research design to evaluate the impacts of this funding, we cannot fund all applications in this round. Nor can we choose to fund all applicants but reduce the amount. Either of these options will render future impact evaluations for this program invalid.</span>
+<span id="cb51-959"><a href="#cb51-959"></a><span class="fu"># Generate summary of output for selected thresholds</span></span>
 <span id="cb51-960"><a href="#cb51-960"></a></span>
-<span id="cb51-961"><a href="#cb51-961"></a>We will need a subset of applications that are not selected -- at complete random -- to have a credible comparison group (called a &quot;counterfactual&quot;). These people will still be eligible for selection in future periods if they choose to re-enter the pool.</span>
+<span id="cb51-961"><a href="#cb51-961"></a>In order to have a credible research design to evaluate the impacts of this funding, we cannot fund all applications in this round. Nor can we choose to fund all applicants but reduce the amount. Either of these options will render future impact evaluations for this program invalid.</span>
 <span id="cb51-962"><a href="#cb51-962"></a></span>
-<span id="cb51-963"><a href="#cb51-963"></a>Given our understanding of the various target we seek to achieve and the multiple application periods, we propose the following thresholds, which would result in roughly the following amounts:</span>
+<span id="cb51-963"><a href="#cb51-963"></a>We will need a subset of applications that are not selected -- at complete random -- to have a credible comparison group (called a &quot;counterfactual&quot;). These people will still be eligible for selection in future periods if they choose to re-enter the pool.</span>
 <span id="cb51-964"><a href="#cb51-964"></a></span>
-<span id="cb51-965"><a href="#cb51-965"></a>(Note unless otherwise indicated by the column applications, all numbers refer to producer counts rather than applications.)</span>
+<span id="cb51-965"><a href="#cb51-965"></a>Given our understanding of the various target we seek to achieve and the multiple application periods, we propose the following thresholds, which would result in roughly the following amounts:</span>
 <span id="cb51-966"><a href="#cb51-966"></a></span>
-<span id="cb51-967"><a href="#cb51-967"></a><span class="in">```{r budget_summary_acreage_producers_rev}</span></span>
-<span id="cb51-968"><a href="#cb51-968"></a>generate_summary_table <span class="ot">&lt;-</span> <span class="cf">function</span>(df, state_input){</span>
-<span id="cb51-969"><a href="#cb51-969"></a>  <span class="co"># Step 3: Generate a summary output table</span></span>
-<span id="cb51-970"><a href="#cb51-970"></a>  state <span class="ot">=</span> <span class="fu">trimws</span>(<span class="fu">gsub</span>(<span class="st">&quot;&quot;</span>, <span class="st">&quot;_&quot;</span>, <span class="fu">tolower</span>(state_input)))</span>
-<span id="cb51-971"><a href="#cb51-971"></a></span>
-<span id="cb51-972"><a href="#cb51-972"></a>  summary_table <span class="ot">&lt;-</span> </span>
-<span id="cb51-973"><a href="#cb51-973"></a>    df <span class="sc">%&gt;%</span></span>
-<span id="cb51-974"><a href="#cb51-974"></a>    <span class="fu">filter</span>(state <span class="sc">==</span> state_input,</span>
-<span id="cb51-975"><a href="#cb51-975"></a>           selection_status <span class="sc">==</span> <span class="st">&quot;selected&quot;</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-976"><a href="#cb51-976"></a>    <span class="fu">group_by</span>(hup_any) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-977"><a href="#cb51-977"></a>    <span class="fu">summarise</span>(</span>
-<span id="cb51-978"><a href="#cb51-978"></a>      <span class="at">state =</span> state,  <span class="co"># Display the state as a constant column</span></span>
-<span id="cb51-979"><a href="#cb51-979"></a>      <span class="at">threshold_used =</span> <span class="fu">as.character</span>(state_fraction),</span>
-<span id="cb51-980"><a href="#cb51-980"></a>      <span class="at">budget_est =</span> <span class="fu">sum</span>(budget_application, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
-<span id="cb51-981"><a href="#cb51-981"></a>      <span class="at">total_acres_au =</span> <span class="fu">sum</span>(total_acres, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb51-967"><a href="#cb51-967"></a>(Note unless otherwise indicated by the column applications, all numbers refer to producer counts rather than applications.)</span>
+<span id="cb51-968"><a href="#cb51-968"></a></span>
+<span id="cb51-969"><a href="#cb51-969"></a><span class="in">```{r budget_summary_acreage_producers_rev}</span></span>
+<span id="cb51-970"><a href="#cb51-970"></a>generate_summary_table <span class="ot">&lt;-</span> <span class="cf">function</span>(df, state_input){</span>
+<span id="cb51-971"><a href="#cb51-971"></a>  <span class="co"># Step 3: Generate a summary output table</span></span>
+<span id="cb51-972"><a href="#cb51-972"></a>  state <span class="ot">=</span> <span class="fu">trimws</span>(<span class="fu">gsub</span>(<span class="st">&quot;&quot;</span>, <span class="st">&quot;_&quot;</span>, <span class="fu">tolower</span>(state_input)))</span>
+<span id="cb51-973"><a href="#cb51-973"></a></span>
+<span id="cb51-974"><a href="#cb51-974"></a>  summary_table <span class="ot">&lt;-</span> </span>
+<span id="cb51-975"><a href="#cb51-975"></a>    df <span class="sc">%&gt;%</span></span>
+<span id="cb51-976"><a href="#cb51-976"></a>    <span class="fu">filter</span>(state <span class="sc">==</span> state_input,</span>
+<span id="cb51-977"><a href="#cb51-977"></a>           selection_status <span class="sc">==</span> <span class="st">&quot;selected&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-978"><a href="#cb51-978"></a>    <span class="fu">group_by</span>(hup_any) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-979"><a href="#cb51-979"></a>    <span class="fu">summarise</span>(</span>
+<span id="cb51-980"><a href="#cb51-980"></a>      <span class="at">state =</span> state,  <span class="co"># Display the state as a constant column</span></span>
+<span id="cb51-981"><a href="#cb51-981"></a>      <span class="at">threshold_used =</span> <span class="fu">as.character</span>(state_fraction),</span>
 <span id="cb51-982"><a href="#cb51-982"></a>      <span class="at">budget_est =</span> <span class="fu">sum</span>(budget_application, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
-<span id="cb51-983"><a href="#cb51-983"></a>      <span class="at">total_applications =</span> <span class="fu">n</span>(),</span>
-<span id="cb51-984"><a href="#cb51-984"></a>      <span class="at">total_producers =</span> <span class="fu">sum</span>(total_applicants, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
-<span id="cb51-985"><a href="#cb51-985"></a>      <span class="at">total_hup =</span> <span class="fu">sum</span>(hup_any, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
-<span id="cb51-986"><a href="#cb51-986"></a>      <span class="at">total_lrp =</span> <span class="fu">sum</span>(limited_resource_producer, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
-<span id="cb51-987"><a href="#cb51-987"></a>      <span class="at">total_sdp =</span> <span class="fu">sum</span>(socially_disadvantaged_producer, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
-<span id="cb51-988"><a href="#cb51-988"></a>    ) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-989"><a href="#cb51-989"></a>    <span class="fu">mutate</span>(<span class="at">hup_any =</span> <span class="fu">as.character</span>(hup_any)) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-990"><a href="#cb51-990"></a>    <span class="fu">distinct</span>()</span>
-<span id="cb51-991"><a href="#cb51-991"></a>  </span>
-<span id="cb51-992"><a href="#cb51-992"></a>  <span class="fu">return</span>(summary_table)</span>
-<span id="cb51-993"><a href="#cb51-993"></a>}</span>
-<span id="cb51-994"><a href="#cb51-994"></a></span>
-<span id="cb51-995"><a href="#cb51-995"></a><span class="co"># Generate summary tables for different thresholds</span></span>
-<span id="cb51-996"><a href="#cb51-996"></a>nd_75 <span class="ot">&lt;-</span> <span class="fu">generate_summary_table</span>(<span class="at">df =</span> applications_selection_status,</span>
-<span id="cb51-997"><a href="#cb51-997"></a>                         <span class="at">state_input =</span> <span class="st">&quot;north_dakota&quot;</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-998"><a href="#cb51-998"></a>  <span class="fu">adorn_totals</span>(<span class="st">&quot;row&quot;</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-999"><a href="#cb51-999"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">where</span>(is.numeric), <span class="sc">~</span><span class="fu">comma</span>(.)))</span>
-<span id="cb51-1000"><a href="#cb51-1000"></a></span>
-<span id="cb51-1001"><a href="#cb51-1001"></a>nd_75 <span class="sc">%&gt;%</span>  <span class="fu">kable</span>(<span class="at">title =</span> <span class="st">&quot;Summary of Budget Implications for ND By HUP Status&quot;</span>)</span>
+<span id="cb51-983"><a href="#cb51-983"></a>      <span class="at">total_acres_au =</span> <span class="fu">sum</span>(total_acres, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb51-984"><a href="#cb51-984"></a>      <span class="at">budget_est =</span> <span class="fu">sum</span>(budget_application, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb51-985"><a href="#cb51-985"></a>      <span class="at">total_applications =</span> <span class="fu">n</span>(),</span>
+<span id="cb51-986"><a href="#cb51-986"></a>      <span class="at">total_producers =</span> <span class="fu">sum</span>(total_applicants, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb51-987"><a href="#cb51-987"></a>      <span class="at">total_hup =</span> <span class="fu">sum</span>(hup_any, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb51-988"><a href="#cb51-988"></a>      <span class="at">total_lrp =</span> <span class="fu">sum</span>(limited_resource_producer, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb51-989"><a href="#cb51-989"></a>      <span class="at">total_sdp =</span> <span class="fu">sum</span>(socially_disadvantaged_producer, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb51-990"><a href="#cb51-990"></a>    ) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-991"><a href="#cb51-991"></a>    <span class="fu">mutate</span>(<span class="at">hup_any =</span> <span class="fu">as.character</span>(hup_any)) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-992"><a href="#cb51-992"></a>    <span class="fu">distinct</span>()</span>
+<span id="cb51-993"><a href="#cb51-993"></a>  </span>
+<span id="cb51-994"><a href="#cb51-994"></a>  <span class="fu">return</span>(summary_table)</span>
+<span id="cb51-995"><a href="#cb51-995"></a>}</span>
+<span id="cb51-996"><a href="#cb51-996"></a></span>
+<span id="cb51-997"><a href="#cb51-997"></a><span class="co"># Generate summary tables for different thresholds</span></span>
+<span id="cb51-998"><a href="#cb51-998"></a>nd_75 <span class="ot">&lt;-</span> <span class="fu">generate_summary_table</span>(<span class="at">df =</span> applications_selection_status,</span>
+<span id="cb51-999"><a href="#cb51-999"></a>                         <span class="at">state_input =</span> <span class="st">&quot;north_dakota&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-1000"><a href="#cb51-1000"></a>  <span class="fu">adorn_totals</span>(<span class="st">&quot;row&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-1001"><a href="#cb51-1001"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">where</span>(is.numeric), <span class="sc">~</span><span class="fu">comma</span>(.)))</span>
 <span id="cb51-1002"><a href="#cb51-1002"></a></span>
-<span id="cb51-1003"><a href="#cb51-1003"></a>va_50 <span class="ot">&lt;-</span> </span>
-<span id="cb51-1004"><a href="#cb51-1004"></a> <span class="fu">generate_summary_table</span>(<span class="at">df =</span> applications_selection_status,</span>
-<span id="cb51-1005"><a href="#cb51-1005"></a>                         <span class="at">state_input =</span> <span class="st">&quot;virginia&quot;</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-1006"><a href="#cb51-1006"></a>  <span class="fu">adorn_totals</span>(<span class="st">&quot;row&quot;</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-1007"><a href="#cb51-1007"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">where</span>(is.numeric), <span class="sc">~</span><span class="fu">comma</span>(.)))</span>
-<span id="cb51-1008"><a href="#cb51-1008"></a></span>
-<span id="cb51-1009"><a href="#cb51-1009"></a>va_50 <span class="sc">%&gt;%</span> <span class="fu">kable</span>(<span class="at">title =</span> <span class="st">&quot;Summary of Budget Implications for Virginia By HUP Status&quot;</span>)</span>
+<span id="cb51-1003"><a href="#cb51-1003"></a>nd_75 <span class="sc">%&gt;%</span>  <span class="fu">kable</span>(<span class="at">title =</span> <span class="st">&quot;Summary of Budget Implications for ND By HUP Status&quot;</span>)</span>
+<span id="cb51-1004"><a href="#cb51-1004"></a></span>
+<span id="cb51-1005"><a href="#cb51-1005"></a>va_50 <span class="ot">&lt;-</span> </span>
+<span id="cb51-1006"><a href="#cb51-1006"></a> <span class="fu">generate_summary_table</span>(<span class="at">df =</span> applications_selection_status,</span>
+<span id="cb51-1007"><a href="#cb51-1007"></a>                         <span class="at">state_input =</span> <span class="st">&quot;virginia&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-1008"><a href="#cb51-1008"></a>  <span class="fu">adorn_totals</span>(<span class="st">&quot;row&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-1009"><a href="#cb51-1009"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">where</span>(is.numeric), <span class="sc">~</span><span class="fu">comma</span>(.)))</span>
 <span id="cb51-1010"><a href="#cb51-1010"></a></span>
-<span id="cb51-1011"><a href="#cb51-1011"></a>nd_75_noformat <span class="ot">&lt;-</span> <span class="fu">generate_summary_table</span>(<span class="at">df =</span> applications_selection_status,</span>
-<span id="cb51-1012"><a href="#cb51-1012"></a>                         <span class="at">state_input =</span> <span class="st">&quot;north_dakota&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">adorn_totals</span>(<span class="st">&quot;row&quot;</span>) </span>
-<span id="cb51-1013"><a href="#cb51-1013"></a></span>
-<span id="cb51-1014"><a href="#cb51-1014"></a>va_50_noformat <span class="ot">&lt;-</span> <span class="fu">generate_summary_table</span>(<span class="at">df =</span> applications_selection_status,</span>
-<span id="cb51-1015"><a href="#cb51-1015"></a>                         <span class="at">state_input =</span> <span class="st">&quot;virginia&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb51-1016"><a href="#cb51-1016"></a>  <span class="fu">adorn_totals</span>(<span class="st">&quot;row&quot;</span>) </span>
-<span id="cb51-1017"><a href="#cb51-1017"></a></span>
-<span id="cb51-1018"><a href="#cb51-1018"></a><span class="co"># Sum all rows but the ones labeled Total</span></span>
-<span id="cb51-1019"><a href="#cb51-1019"></a>totals <span class="ot">&lt;-</span> </span>
-<span id="cb51-1020"><a href="#cb51-1020"></a>  <span class="fu">rbind</span>(va_50_noformat, nd_75_noformat) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-1021"><a href="#cb51-1021"></a>    <span class="fu">mutate</span>(<span class="at">state =</span> <span class="fu">ifelse</span>(hup_any <span class="sc">==</span> <span class="st">&quot;Total&quot;</span>, <span class="st">&quot;state subtotal&quot;</span>, state),</span>
-<span id="cb51-1022"><a href="#cb51-1022"></a>         <span class="at">hup_any =</span> <span class="fu">ifelse</span>(hup_any <span class="sc">==</span> <span class="st">&quot;Total&quot;</span>, <span class="st">&quot;-&quot;</span>, hup_any))  </span>
-<span id="cb51-1023"><a href="#cb51-1023"></a> </span>
-<span id="cb51-1024"><a href="#cb51-1024"></a><span class="co"># Step 2: Calculate new totals for rows previously labeled &quot;Total&quot;</span></span>
-<span id="cb51-1025"><a href="#cb51-1025"></a>total_row <span class="ot">&lt;-</span> </span>
-<span id="cb51-1026"><a href="#cb51-1026"></a>  totals <span class="sc">%&gt;%</span></span>
-<span id="cb51-1027"><a href="#cb51-1027"></a>  <span class="fu">filter</span>(state <span class="sc">==</span> <span class="st">&quot;state subtotal&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb51-1028"><a href="#cb51-1028"></a>  <span class="fu">summarise</span>(<span class="fu">across</span>(<span class="fu">where</span>(is.numeric), sum, <span class="at">na.rm =</span> <span class="cn">TRUE</span>))</span>
-<span id="cb51-1029"><a href="#cb51-1029"></a></span>
-<span id="cb51-1030"><a href="#cb51-1030"></a><span class="co"># Adding a label for the total row</span></span>
-<span id="cb51-1031"><a href="#cb51-1031"></a>total_row<span class="sc">$</span>state <span class="ot">&lt;-</span> <span class="st">&quot;Total&quot;</span></span>
-<span id="cb51-1032"><a href="#cb51-1032"></a></span>
-<span id="cb51-1033"><a href="#cb51-1033"></a><span class="co"># Combining the modified data with the new total row</span></span>
-<span id="cb51-1034"><a href="#cb51-1034"></a>final_data <span class="ot">&lt;-</span> </span>
-<span id="cb51-1035"><a href="#cb51-1035"></a>  <span class="fu">bind_rows</span>(totals, total_row) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-1036"><a href="#cb51-1036"></a>  <span class="co"># filter(state == &quot;Total&quot;) %&gt;% </span></span>
-<span id="cb51-1037"><a href="#cb51-1037"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">everything</span>(), <span class="sc">~</span><span class="fu">ifelse</span>(<span class="fu">is.na</span>(.), <span class="st">&quot;-&quot;</span>, .))) <span class="sc">%&gt;%</span> </span>
-<span id="cb51-1038"><a href="#cb51-1038"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">where</span>(is.numeric), <span class="sc">~</span><span class="fu">comma</span>(<span class="fu">as.numeric</span>(.))))</span>
-<span id="cb51-1039"><a href="#cb51-1039"></a></span>
-<span id="cb51-1040"><a href="#cb51-1040"></a>final_data <span class="sc">%&gt;%</span> <span class="fu">kable</span>(<span class="at">caption =</span></span>
-<span id="cb51-1041"><a href="#cb51-1041"></a>                     <span class="st">&quot;Summary of Proposed Selection Implications by State and HUP Status&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb51-1042"><a href="#cb51-1042"></a><span class="fu">kable_styling</span>(<span class="at">full_width =</span> F, <span class="at">position =</span> <span class="st">&quot;left&quot;</span>, <span class="at">bootstrap_options =</span> <span class="fu">c</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>, <span class="st">&quot;condensed&quot;</span>, <span class="st">&quot;responsive&quot;</span>)</span>
-<span id="cb51-1043"><a href="#cb51-1043"></a>  )</span>
-<span id="cb51-1044"><a href="#cb51-1044"></a><span class="in">```</span></span>
-<span id="cb51-1045"><a href="#cb51-1045"></a></span>
-<span id="cb51-1046"><a href="#cb51-1046"></a><span class="fu"># Check on share of HUP and SDP selected</span></span>
-<span id="cb51-1047"><a href="#cb51-1047"></a>The flag here indicates whether an application has any applicant with HUP or SDP status. The numbers in the prior table refer to applicants (of which there may be up to three per application), whereas this table refers to applications where any of up to three applicants have HUP or SDP status.</span>
-<span id="cb51-1048"><a href="#cb51-1048"></a></span>
-<span id="cb51-1049"><a href="#cb51-1049"></a><span class="in">```{r flagged_selected_summary}</span></span>
-<span id="cb51-1050"><a href="#cb51-1050"></a><span class="co"># Display the summary</span></span>
-<span id="cb51-1051"><a href="#cb51-1051"></a>flagged_selection_summary <span class="sc">%&gt;%</span> <span class="fu">kable</span>()</span>
-<span id="cb51-1052"><a href="#cb51-1052"></a></span>
-<span id="cb51-1053"><a href="#cb51-1053"></a><span class="in">```</span></span>
+<span id="cb51-1011"><a href="#cb51-1011"></a>va_50 <span class="sc">%&gt;%</span> <span class="fu">kable</span>(<span class="at">title =</span> <span class="st">&quot;Summary of Budget Implications for Virginia By HUP Status&quot;</span>)</span>
+<span id="cb51-1012"><a href="#cb51-1012"></a></span>
+<span id="cb51-1013"><a href="#cb51-1013"></a>nd_75_noformat <span class="ot">&lt;-</span> <span class="fu">generate_summary_table</span>(<span class="at">df =</span> applications_selection_status,</span>
+<span id="cb51-1014"><a href="#cb51-1014"></a>                         <span class="at">state_input =</span> <span class="st">&quot;north_dakota&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">adorn_totals</span>(<span class="st">&quot;row&quot;</span>) </span>
+<span id="cb51-1015"><a href="#cb51-1015"></a></span>
+<span id="cb51-1016"><a href="#cb51-1016"></a>va_50_noformat <span class="ot">&lt;-</span> <span class="fu">generate_summary_table</span>(<span class="at">df =</span> applications_selection_status,</span>
+<span id="cb51-1017"><a href="#cb51-1017"></a>                         <span class="at">state_input =</span> <span class="st">&quot;virginia&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb51-1018"><a href="#cb51-1018"></a>  <span class="fu">adorn_totals</span>(<span class="st">&quot;row&quot;</span>) </span>
+<span id="cb51-1019"><a href="#cb51-1019"></a></span>
+<span id="cb51-1020"><a href="#cb51-1020"></a><span class="co"># Sum all rows but the ones labeled Total</span></span>
+<span id="cb51-1021"><a href="#cb51-1021"></a>totals <span class="ot">&lt;-</span> </span>
+<span id="cb51-1022"><a href="#cb51-1022"></a>  <span class="fu">rbind</span>(va_50_noformat, nd_75_noformat) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-1023"><a href="#cb51-1023"></a>    <span class="fu">mutate</span>(<span class="at">state =</span> <span class="fu">ifelse</span>(hup_any <span class="sc">==</span> <span class="st">&quot;Total&quot;</span>, <span class="st">&quot;state subtotal&quot;</span>, state),</span>
+<span id="cb51-1024"><a href="#cb51-1024"></a>         <span class="at">hup_any =</span> <span class="fu">ifelse</span>(hup_any <span class="sc">==</span> <span class="st">&quot;Total&quot;</span>, <span class="st">&quot;-&quot;</span>, hup_any))  </span>
+<span id="cb51-1025"><a href="#cb51-1025"></a> </span>
+<span id="cb51-1026"><a href="#cb51-1026"></a><span class="co"># Step 2: Calculate new totals for rows previously labeled &quot;Total&quot;</span></span>
+<span id="cb51-1027"><a href="#cb51-1027"></a>total_row <span class="ot">&lt;-</span> </span>
+<span id="cb51-1028"><a href="#cb51-1028"></a>  totals <span class="sc">%&gt;%</span></span>
+<span id="cb51-1029"><a href="#cb51-1029"></a>  <span class="fu">filter</span>(state <span class="sc">==</span> <span class="st">&quot;state subtotal&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb51-1030"><a href="#cb51-1030"></a>  <span class="fu">summarise</span>(<span class="fu">across</span>(<span class="fu">where</span>(is.numeric), sum, <span class="at">na.rm =</span> <span class="cn">TRUE</span>))</span>
+<span id="cb51-1031"><a href="#cb51-1031"></a></span>
+<span id="cb51-1032"><a href="#cb51-1032"></a><span class="co"># Adding a label for the total row</span></span>
+<span id="cb51-1033"><a href="#cb51-1033"></a>total_row<span class="sc">$</span>state <span class="ot">&lt;-</span> <span class="st">&quot;Total&quot;</span></span>
+<span id="cb51-1034"><a href="#cb51-1034"></a></span>
+<span id="cb51-1035"><a href="#cb51-1035"></a><span class="co"># Combining the modified data with the new total row</span></span>
+<span id="cb51-1036"><a href="#cb51-1036"></a>final_data <span class="ot">&lt;-</span> </span>
+<span id="cb51-1037"><a href="#cb51-1037"></a>  <span class="fu">bind_rows</span>(totals, total_row) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-1038"><a href="#cb51-1038"></a>  <span class="co"># filter(state == &quot;Total&quot;) %&gt;% </span></span>
+<span id="cb51-1039"><a href="#cb51-1039"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">everything</span>(), <span class="sc">~</span><span class="fu">ifelse</span>(<span class="fu">is.na</span>(.), <span class="st">&quot;-&quot;</span>, .))) <span class="sc">%&gt;%</span> </span>
+<span id="cb51-1040"><a href="#cb51-1040"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">where</span>(is.numeric), <span class="sc">~</span><span class="fu">comma</span>(<span class="fu">as.numeric</span>(.))))</span>
+<span id="cb51-1041"><a href="#cb51-1041"></a></span>
+<span id="cb51-1042"><a href="#cb51-1042"></a>final_data <span class="sc">%&gt;%</span> <span class="fu">kable</span>(<span class="at">caption =</span></span>
+<span id="cb51-1043"><a href="#cb51-1043"></a>                     <span class="st">&quot;Summary of Proposed Selection Implications by State and HUP Status&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb51-1044"><a href="#cb51-1044"></a><span class="fu">kable_styling</span>(<span class="at">full_width =</span> F, <span class="at">position =</span> <span class="st">&quot;left&quot;</span>, <span class="at">bootstrap_options =</span> <span class="fu">c</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>, <span class="st">&quot;condensed&quot;</span>, <span class="st">&quot;responsive&quot;</span>)</span>
+<span id="cb51-1045"><a href="#cb51-1045"></a>  )</span>
+<span id="cb51-1046"><a href="#cb51-1046"></a><span class="in">```</span></span>
+<span id="cb51-1047"><a href="#cb51-1047"></a></span>
+<span id="cb51-1048"><a href="#cb51-1048"></a><span class="fu"># Check on share of HUP and SDP selected</span></span>
+<span id="cb51-1049"><a href="#cb51-1049"></a>The flag here indicates whether an application has any applicant with HUP or SDP status. The numbers in the prior table refer to applicants (of which there may be up to three per application), whereas this table refers to applications where any of up to three applicants have HUP or SDP status.</span>
+<span id="cb51-1050"><a href="#cb51-1050"></a></span>
+<span id="cb51-1051"><a href="#cb51-1051"></a><span class="in">```{r flagged_selected_summary}</span></span>
+<span id="cb51-1052"><a href="#cb51-1052"></a><span class="co"># Display the summary</span></span>
+<span id="cb51-1053"><a href="#cb51-1053"></a>flagged_selection_summary <span class="sc">%&gt;%</span> <span class="fu">kable</span>()</span>
 <span id="cb51-1054"><a href="#cb51-1054"></a></span>
-<span id="cb51-1055"><a href="#cb51-1055"></a><span class="fu"># Remaining TO-DO&#39;s</span></span>
+<span id="cb51-1055"><a href="#cb51-1055"></a><span class="in">```</span></span>
 <span id="cb51-1056"><a href="#cb51-1056"></a></span>
-<span id="cb51-1057"><a href="#cb51-1057"></a>The budget estimates should be considered as exactly that -- estimates! There are a few cases where the application files were inconsistent on the acreage within a farm and the total acreage requested, so we anticipate there may be adjustments once the acreage is reviewed/verified by local partners and the producers themselves.</span>
+<span id="cb51-1057"><a href="#cb51-1057"></a><span class="fu"># Remaining TO-DO&#39;s</span></span>
 <span id="cb51-1058"><a href="#cb51-1058"></a></span>
-<span id="cb51-1059"><a href="#cb51-1059"></a>More broadly, as we have continued to evaluate the implications of selection, we have further identified a few more errors that should have been caught in the applications input files before the data file arrived to selection but were not (e.g. inconsistent acreages between columns, a test case making it through to &quot;Recommended&quot; status). As we learn more in this round, we can make improvements that will allow us to move more quickly in subsequent rounds on what types of automatic flags to have *before* producers are able to submit their files.</span>
+<span id="cb51-1059"><a href="#cb51-1059"></a>The budget estimates should be considered as exactly that -- estimates! There are a few cases where the application files were inconsistent on the acreage within a farm and the total acreage requested, so we anticipate there may be adjustments once the acreage is reviewed/verified by local partners and the producers themselves.</span>
 <span id="cb51-1060"><a href="#cb51-1060"></a></span>
-<span id="cb51-1061"><a href="#cb51-1061"></a><span class="fu"># Manual flags that we had to fix </span></span>
-<span id="cb51-1062"><a href="#cb51-1062"></a>We will seek to systematize the following checks moving forward:</span>
-<span id="cb51-1063"><a href="#cb51-1063"></a></span>
-<span id="cb51-1064"><a href="#cb51-1064"></a><span class="ss">1.  </span>Sum of practice code animals or acres should equal total farm acres</span>
-<span id="cb51-1065"><a href="#cb51-1065"></a><span class="ss">2.  </span>Practice code animals or acres should not be zero, missing, or negative</span>
-<span id="cb51-1066"><a href="#cb51-1066"></a><span class="ss">3.  </span>Practice code animals or acres should not be greater than total farm acres</span>
-<span id="cb51-1067"><a href="#cb51-1067"></a><span class="ss">4.  </span>Practice code animals or acres should not be greater than 160 per farm</span>
-<span id="cb51-1068"><a href="#cb51-1068"></a><span class="ss">5.  </span>The &quot;has enhancement&quot; column should not be empty when the enhancement is present (or is not NA)</span>
-<span id="cb51-1069"><a href="#cb51-1069"></a><span class="ss">6.  </span>Check to confirm the number of producers in LRP and SDP status per state are selected.</span>
+<span id="cb51-1061"><a href="#cb51-1061"></a>More broadly, as we have continued to evaluate the implications of selection, we have further identified a few more errors that should have been caught in the applications input files before the data file arrived to selection but were not (e.g. inconsistent acreages between columns, a test case making it through to &quot;Recommended&quot; status). As we learn more in this round, we can make improvements that will allow us to move more quickly in subsequent rounds on what types of automatic flags to have *before* producers are able to submit their files.</span>
+<span id="cb51-1062"><a href="#cb51-1062"></a></span>
+<span id="cb51-1063"><a href="#cb51-1063"></a><span class="fu"># Manual flags that we had to fix </span></span>
+<span id="cb51-1064"><a href="#cb51-1064"></a>We will seek to systematize the following checks moving forward:</span>
+<span id="cb51-1065"><a href="#cb51-1065"></a></span>
+<span id="cb51-1066"><a href="#cb51-1066"></a><span class="ss">1.  </span>Sum of practice code animals or acres should equal total farm acres</span>
+<span id="cb51-1067"><a href="#cb51-1067"></a><span class="ss">2.  </span>Practice code animals or acres should not be zero, missing, or negative</span>
+<span id="cb51-1068"><a href="#cb51-1068"></a><span class="ss">3.  </span>Practice code animals or acres should not be greater than total farm acres</span>
+<span id="cb51-1069"><a href="#cb51-1069"></a><span class="ss">4.  </span>Practice code animals or acres should not be greater than 160 per farm</span>
+<span id="cb51-1070"><a href="#cb51-1070"></a><span class="ss">5.  </span>The &quot;has enhancement&quot; column should not be empty when the enhancement is present (or is not NA)</span>
+<span id="cb51-1071"><a href="#cb51-1071"></a><span class="ss">6.  </span>Check to confirm the number of producers in LRP and SDP status per state are selected.</span>
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
