@@ -32,7 +32,7 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 
 🏆 **2026 · Anne Carroll earns the Agricultural Risk Analysis travel award.** Anne was the single student selected for the Agricultural Risk Analysis Graduate Student Travel Award to the annual meeting of SCC-76 at the Federal Reserve Bank of Kansas City.
 
-📄 **2026 · New public comment to USDA.** With the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres on opportunities, challenges, and emerging areas, we commented on the applications of Earth Observations data in strengthen US Agicultural Statistics in response to a USDA Request for Information [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
+📄 **2026 · New public comment to USDA.** With the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres on opportunities, challenges, and emerging areas, we commented on the applications of Earth observation data to strengthen US Agricultural Statistics in response to a USDA Request for Information. [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
 
 🎉 **2025 · Ella Kirchner named a VT Presidential Postdoctoral Fellow.** [Read more](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships/current-fellows/kirchner-ella.html).
 
@@ -81,19 +81,19 @@ The **HECTARE Lab** (Human Environment CompuTing and Agricultural Research Lab) 
 
 **Postdoctoral scholars**
 
-- **Ella Kirchner** — VT Agricultural & Applied Economics; VT Presidential Postdoctoral Fellow (2024–2026)
+- **Ella Kirchner** — VT Agricultural & Applied Economics; VT Presidential Postdoctoral Fellow / NASA Harvest (2024–2026)
 - **Michael J. Cecil** — University of Maryland, Geographical Sciences / NASA Harvest (2024–present)
 
 **Graduate students (co-advised)**
 
 - **Anne Carroll** — PhD, Agricultural & Applied Economics (expected ~2029)
 - **Alex Saunders** — PhD, Geography, Development & Environment, University of Arizona (expected ~2027)
-- **Ivy (Shengke) Wang** - PhD, Agricultural & Applied Economics (expected ~2031)
+- **Ivy (Shengke) Wang** — PhD, Agricultural & Applied Economics (expected ~2031)
 
 Additional Advisees:
 
 - **Matthew Mair** — PhD, Agricultural & Applied Economics (expected May 2028)
-- **Yi-Tien Lu** - PhD, Agricultural & Applied Economics (expected May 2029)
+- **Yi-Tien Lu** — PhD, Agricultural & Applied Economics (expected May 2029)
 - **Nitheshnirmal Sadhasivam** — PhD, Geosciences (expected ~2027)
 
 ## Alumni/ae
