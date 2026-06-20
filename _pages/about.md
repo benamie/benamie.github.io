@@ -62,6 +62,8 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 ## Teaching
 {: #teaching}
 
+Full course descriptions, syllabi, and guidance for students (including requesting reference letters) are on my **[Teaching & Mentoring](/teaching-and-mentoring/)** page.
+
 **At Virginia Tech**
 
 - **Remote Sensing in the Social Sciences** — graduate course, instructor of record (Fall 2021, 2022, 2024)
