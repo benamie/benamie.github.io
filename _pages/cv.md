@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://benamie.github.io/files/cv_Benami_feb2022.pdf)
+[Download my CV (PDF, updated June 2026)](https://benamie.github.io/files/cv_Benami_june2026.pdf)
 
 <!-- Education
 ======

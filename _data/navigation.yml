@@ -1,15 +1,20 @@
-# main links links
+# main navigation links — single-page anchors + CV (opens PDF in new tab)
 main:
+  - title: "About"
+    url: /#about
+
+  - title: "Research"
+    url: /#research
+
   - title: "Publications"
-    url: /publications/  
+    url: /#publications
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Team"
-    url: /team/
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /#teaching
 
+  - title: "Team"
+    url: /#team
+
+  - title: "CV"
+    url: /files/cv_Benami_june2026.pdf
+    target: "_blank"

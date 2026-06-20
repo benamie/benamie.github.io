@@ -1,0 +1,10 @@
+---
+title: "Sensitivity to Data Choice Across Scales for Index-Based Flood Insurance"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-06-01-flood-insurance-data-choice
+date: 2025-06-01
+venue: "Earth&#39;s Future"
+citation: "Saunders, A., Tellman, B., Benami, E., Anchukaitis, K., Bennett, A., Hossain, S., Islam, A.K.M.S., Giezendanner, J. (2025). &quot;Sensitivity to Data Choice Across Scales for Index-Based Flood Insurance.&quot; <i>Earth&#39;s Future</i>."
+---
+

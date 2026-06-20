@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Under construction"
+title                    : "Elinor Benami"
 title_separator          : "-"
 name                     : &name "Elinor Benami"
 description              : &description "asst prof <br/> virginia tech"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "elinor-benami-05183417"
   orcid            : "http://orcid.org/0000-0002-8586-1314"
   pinterest        :
   soundcloud       :
