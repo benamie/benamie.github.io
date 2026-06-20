@@ -6,37 +6,58 @@ OUT = os.path.join(os.path.dirname(__file__), "..", "_publications")
 
 # (date, slug, category, title, venue, citation, paperurl)
 PUBS = [
-    # --- Working papers / in progress ---
-    ("2026-06-01", "financial-incentives-csa", "working",
-     "How and Where Do Financial Incentives Promote Adoption of Climate-Smart Agricultural Practices? A $54 Million Experiment Among US Producers",
+    # --- Working papers / in progress (dates encode display order) ---
+    # Book chapters (Geospatial Impact Evaluation in Practice) first
+    ("2026-06-15", "gie-design-choices", "working",
+     "Design Choices for Integrating Earth Observation and Socioeconomic Data",
+     "Geospatial Impact Evaluation in Practice (eds. A. BenYishay & K. Singh) — accepted, in copy-editing",
+     "Michler, J.D., Josephson, A., Benami, E., Behrer, P., Cecil, M.J., Gourlay, S., Heilmayr, R., Kirchner, E., Maskell, G., Singh, K. (accepted, in copy-editing). &quot;Design Choices for Integrating Earth Observation and Socioeconomic Data.&quot; In <i>Geospatial Impact Evaluation in Practice</i> (eds. A. BenYishay &amp; K. Singh).", ""),
+    ("2026-06-10", "weather-landcover-gie", "working",
+     "Integrating Weather and Land Cover Data into Geospatial Impact Evaluations",
+     "Geospatial Impact Evaluation in Practice (eds. A. BenYishay & K. Singh) — under review",
+     "Benami, E., Cecil, M., Josephson, A., Maskell, G., Michler, J. (under review). &quot;Integrating Weather and Land Cover Data into Geospatial Impact Evaluations.&quot; In <i>Geospatial Impact Evaluation in Practice</i> (eds. A. BenYishay &amp; K. Singh).", ""),
+    ("2026-06-05", "causal-inference-eo", "working",
+     "Causal Inference and Counterfactuals in Earth Observation Research",
+     "Geospatial Impact Evaluation in Practice (eds. A. BenYishay & K. Singh) — under review",
+     "D&#39;Agostino, A., Usmani, F., Benami, E. (under review). &quot;Causal Inference and Counterfactuals in Earth Observation Research.&quot; In <i>Geospatial Impact Evaluation in Practice</i> (eds. A. BenYishay &amp; K. Singh).", ""),
+    # Index insurance
+    ("2026-06-01", "forecasts-adverse-selection", "working",
+     "Forecasts and Adverse Selection in Index Insurance",
      "Working paper (in prep)",
-     "Benami, E., Bovay, J., Zhang, W., Ta, C. (in prep). &quot;How and Where Do Financial Incentives Promote Adoption of Climate-Smart Agricultural Practices? A $54 Million Experiment Among US Producers.&quot; [Preanalysis plan in prep for the AEA RCT Registry]", ""),
-    ("2026-05-01", "eo-derisk-sustainable-ag", "working",
+     "Carroll, A., Benami, E., Cecil, M.J. (in prep). &quot;Forecasts and Adverse Selection in Index Insurance.&quot;", ""),
+    ("2026-05-15", "rainfall-exceptional-drought", "working",
+     "Rainfall Index Insurance Under Exceptional Drought: Payout Alignment and Producer Response",
+     "Working paper (in prep)",
+     "Cecil, M.J., Benami, E., Carroll, A., Yu, J., Ifft, J. (in prep). &quot;Rainfall Index Insurance Under Exceptional Drought: Payout Alignment and Producer Response.&quot;", ""),
+    # Financial incentives
+    ("2026-05-01", "financial-incentives-csa", "working",
+     "How and Where Do Financial Incentives Promote Adoption of Conservation (Regenerative) Agricultural Practices? A $54 Million Experiment Among US Producers",
+     "Working paper (in prep)",
+     "Benami, E., Bovay, J., Zhang, W., Ta, C. (in prep). &quot;How and Where Do Financial Incentives Promote Adoption of Conservation (Regenerative) Agricultural Practices? A $54 Million Experiment Among US Producers.&quot; [Preanalysis plan in prep for the AEA RCT Registry]", ""),
+    # Sahel
+    ("2026-04-15", "drought-vulnerability-niger", "working",
+     "Measures and Mediators of Drought-Related Household Vulnerability to Poverty in Niger",
+     "Working paper (in prep)",
+     "Poghosyan, A., Benami, E., Brunelin, S., Ng, O. (in prep). &quot;Measures and Mediators of Drought-Related Household Vulnerability to Poverty in Niger.&quot;", ""),
+    # Other risk work
+    ("2026-04-01", "eo-derisk-sustainable-ag", "working",
      "Opportunities for Earth Observation to Help Derisk the Transition to Sustainable Agricultural Systems",
      "Working paper (in prep)",
      "Benami, E., Becker-Reshef, I., Kirchner, E., Cecil, M.J., Chautems, M. (in prep). &quot;Opportunities for EO to Help Derisk the Transition to Sustainable Agricultural Systems.&quot;", ""),
-    ("2026-04-01", "weather-landcover-gie", "working",
-     "Integrating Weather and Land Cover Data into Geospatial Impact Evaluations",
-     "AidData textbook on Geospatial Impact Evaluation (under review)",
-     "Benami, E., Cecil, M., Josephson, A., Maskell, G., Michler, J. (under review). &quot;Integrating Weather and Land Cover Data into Geospatial Impact Evaluations.&quot; AidData textbook on Geospatial Impact Evaluation.", ""),
-    ("2026-03-01", "causal-inference-eo", "working",
-     "Causal Inference and Counterfactuals in Earth Observation Research",
-     "AidData textbook on Geospatial Impact Evaluation (under review)",
-     "D&#39;Agostino, A., Usmani, F., Benami, E. (under review). &quot;Causal Inference and Counterfactuals in Earth Observation Research.&quot; AidData textbook on Geospatial Impact Evaluation.", ""),
 
     # --- Peer-reviewed & forthcoming ---
     ("2026-02-01", "get-in-the-zone", "manuscripts",
      "Get in the Zone: The Risk-Adjusted Welfare Effects of Using Machine Learning vs. Administrative Borders to Define Agricultural Index Insurance Zones",
      "Journal of Development Economics",
      "Kirchner, E.*, Benami, E.*, Hobbs, A.W., Carter, M.R., Jin, Z. (2026). &quot;Get in the Zone: The Risk-Adjusted Welfare Effects of Using Machine Learning vs. Administrative Borders to Define Agricultural Index Insurance Zones.&quot; <i>Journal of Development Economics</i>. *Joint first authors.", ""),
-    ("2026-01-01", "drop-a-line", "manuscripts",
+    ("2026-06-20", "drop-a-line", "working",
      "Drop a Line, Submit on Time? Evidence from a Randomized Control Trial on the Effect of Pre-Deadline Reminders on Pollution Discharge Reporting",
      "Journal of the Association of Environmental and Resource Economists (conditionally accepted)",
      "Benami, E., Jo, N., Ragnauth, B., Ho, D.E. (conditionally accepted). &quot;Drop a Line, Submit on Time? Evidence from a Randomized Control Trial on the Effect of Pre-Deadline Reminders on Pollution Discharge Reporting.&quot; <i>Journal of the Association of Environmental and Resource Economists</i>.", ""),
     ("2025-09-01", "seeding-change", "manuscripts",
-     "Seeding Change to Manage Climate Change: Growing Insights from Four USDA Programs to Support Climate-Smart Agriculture",
+     "Seeding change: Growing insights from four programs to support climate-resilient soil and water conservation in US agriculture",
      "Agricultural Economics",
-     "Benami, E., Bell, A., Messer, K., Cecil, M., Zhang, W. (2025). &quot;Seeding Change to Manage Climate Change: Growing Insights from Four USDA Programs to Support Climate-Smart Agriculture.&quot; <i>Agricultural Economics</i>.", ""),
+     "Benami, E., Carroll, A., Messer, K.D., Zhang, W., Cecil, M. (2025). &quot;Seeding change: Growing insights from four programs to support climate-resilient soil and water conservation in US agriculture.&quot; <i>Agricultural Economics</i> 56(3): 457-473.", ""),
     ("2025-06-01", "flood-insurance-data-choice", "manuscripts",
      "Sensitivity to Data Choice Across Scales for Index-Based Flood Insurance",
      "Earth&#39;s Future",
@@ -101,12 +122,36 @@ PUBS = [
      "Pierpont, B., Varadarajan, U., Hobbs, A., Benami, E. (2013). &quot;Improving Solar Policy: Lessons from the Solar Leasing Boom in California.&quot; <i>Climate Policy Initiative</i>.", ""),
 ]
 
-# Remove old placeholder papers
+# External links only (DOIs/publisher/SSRN/regulations.gov from the CV + prior site).
+# Papers whose only copy is hosted on the old personal site are intentionally left unlinked.
+PAPERURLS = {
+    "ml-environmental-monitoring": "https://doi.org/10.1038/s41893-018-0142-9",
+    "olive-trees-mapping":         "https://doi.org/10.1016/j.isprsjprs.2024.08.003",
+    "rain-check":                  "https://doi.org/10.1017/age.2025.10004",
+    "flood-insurance-data-choice": "https://doi.org/10.1029/2025EF005966",
+    "oil-palm-para":               "https://doi.org/10.1088/1748-9326/aaa270",
+    "seeding-change":              "https://doi.org/10.1111/agec.70034",
+    "uniting-advances":            "https://rdcu.be/cdQpO",
+    "digital-rural-finance":       "https://doi.org/10.1002/aepp.13151",
+    "bridging-science-practice":   "https://doi.org/10.63024/dpc1-nhv2",
+    "drop-a-line":                 "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4355984",
+    "siepr-compliance-brief":      "https://siepr.stanford.edu/research/publications/innovations-environmental-compliance-emerging-evidence-and-opportunities",
+    "usda-rfi-comment":            "https://www.regulations.gov/comment/USDA-2026-0034-0218",
+    "epa-neci-comment":            "https://www.regulations.gov/comment/EPA-HQ-OECA-2022-0981-0010",
+}
+
+# Optional local PDF copies (rendered as a second "[pdf]" link)
+PDFS = {
+    "epa-neci-comment": "/files/OMB-2023-0020-0198_attachment.pdf",
+}
+
+# Wipe existing publication files and regenerate (this script is the source of truth)
 for f in os.listdir(OUT):
-    if "paper-title-number" in f:
+    if f.endswith(".md"):
         os.remove(os.path.join(OUT, f))
 
 for date, slug, cat, title, venue, citation, paperurl in PUBS:
+    paperurl = PAPERURLS.get(slug, paperurl)
     fn = f"{date}-{slug}.md"
     lines = [
         "---",
@@ -119,6 +164,9 @@ for date, slug, cat, title, venue, citation, paperurl in PUBS:
     ]
     if paperurl:
         lines.append(f'paperurl: "{paperurl}"')
+    pdf = PDFS.get(slug, "")
+    if pdf:
+        lines.append(f'pdf: "{pdf}"')
     lines.append(f'citation: "{citation}"')
     lines.append("---")
     lines.append("")

@@ -1,10 +1,11 @@
 ---
-title: "Seeding Change to Manage Climate Change: Growing Insights from Four USDA Programs to Support Climate-Smart Agriculture"
+title: "Seeding change: Growing insights from four programs to support climate-resilient soil and water conservation in US agriculture"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-01-seeding-change
 date: 2025-09-01
 venue: "Agricultural Economics"
-citation: "Benami, E., Bell, A., Messer, K., Cecil, M., Zhang, W. (2025). &quot;Seeding Change to Manage Climate Change: Growing Insights from Four USDA Programs to Support Climate-Smart Agriculture.&quot; <i>Agricultural Economics</i>."
+paperurl: "https://doi.org/10.1111/agec.70034"
+citation: "Benami, E., Carroll, A., Messer, K.D., Zhang, W., Cecil, M. (2025). &quot;Seeding change: Growing insights from four programs to support climate-resilient soil and water conservation in US agriculture.&quot; <i>Agricultural Economics</i> 56(3): 457-473."
 ---
 
