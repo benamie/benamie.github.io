@@ -20,6 +20,10 @@ seo_description          : "Site for Elinor Benami, Assistant Professor at Virgi
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+
+# Don't auto-derive page titles from the first heading (keeps the homepage tab as site.title)
+titles_from_headings:
+  enabled: false
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"

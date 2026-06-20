@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Elinor Benami"
 excerpt: "Assistant Professor of Agricultural & Applied Economics at Virginia Tech"
 author_profile: true
 redirect_from:
