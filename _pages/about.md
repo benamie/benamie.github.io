@@ -23,7 +23,7 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 
 <div class="news-feed" markdown="1">
 
-🔬 **Jun 2026 · Now hiring — Research Associate / Research Scientist.** A position in computational spatial science and agricultural insurance, affiliated with [NASA Harvest](https://nasaharvest.org/). See the [job description and application instructions](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit); please prepare a complete application package and submit it as described in the posting. *Priority application deadline: July 30, 2026.*
+🔬 **Jun 2026 · Now hiring — Research Associate / Research Scientist.** A position in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/). See the [job description and application instructions](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit); please prepare a complete application package and submit it as described in the posting. *Priority application deadline: July 30, 2026.*
 
 🗓️ **Jun 2026 · AGU 2026 — call for abstracts.** I’m co-convening **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Natural Hazards · Session 282342). [Submit an abstract](https://agu.confex.com/agu/agu26/prelim.cgi/Home/0) by **5 August 2026** (23:59 EDT / 03:59 UTC).
 
@@ -31,7 +31,7 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 
 🏆 **2026 · Anne Carroll earns the Agricultural Risk Analysis travel award.** Anne was the single student selected for the Agricultural Risk Analysis Graduate Student Travel Award to the annual meeting of SCC-76 at the Federal Reserve Bank of Kansas City.
 
-📄 **2026 · New public comment to USDA.** With the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres on opportunities, challenges, and emerging areas, we commented on the applications of Earth observation data to strengthen US Agricultural Statistics in response to a USDA Request for Information. [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
+📄 **2026 · New public comment to USDA.** With the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres, we wrote a brief public comment synthesizing the use of Earth observation data to strengthen US Agricultural Statistics, in response to a USDA Request for Information on Opportunities, Challenges, and Emerging Areas in Statistical Data, Analysis, and Research (FRN 2026-03497). [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
 
 🎉 **2025 · Ella Kirchner named a VT Presidential Postdoctoral Fellow.** [Read more](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships/current-fellows/kirchner-ella.html).
 
@@ -64,16 +64,16 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 
 Full course descriptions, syllabi, and guidance for students (including requesting reference letters) are on my **[Teaching & Mentoring](/teaching-and-mentoring/)** page.
 
-**At Virginia Tech**
-
 - **Remote Sensing in the Social Sciences** — graduate course, instructor of record (Fall 2021, 2022, 2024)
 - **Climate Risk Management** — upper-level undergraduate course, instructor of record (Fall 2023)
 - **Environmental & Sustainable Development Economics** — undergraduate course, instructor of record (Spring 2021 & 2022)
 
 **Prior experience**
 
-- **The Economics of Index Insurance** — co-instructor, short course for remote-sensing specialists, Nairobi, Kenya (Summer 2019)
-- Teaching assistant: Environmental Governance and World Food Economy (Stanford); Energy in Transition (UNC-Chapel Hill)
+- **The Economics of Index Insurance** — co-instructor, short course for remote-sensing specialists (Nairobi, Kenya, Summer 2019). An applied short course on the design, pricing, and evaluation of agricultural index insurance for managing risk.
+- **World Food Economy** (ECON/ESS 106/206) — teaching assistant, Stanford University (undergraduate and master's). The economics of global food production, agricultural markets, hunger, and food and environmental policy.
+- **Environmental Governance** — teaching assistant, Stanford University (undergraduate). How institutions, markets, and policy instruments shape the governance of natural resources and environmental outcomes.
+- **Energy in Transition: De-Carbonizing America** — teaching assistant, University of North Carolina at Chapel Hill (honors seminar). The policies, technologies, and economics of the U.S. transition to lower-carbon energy.
 
 ## HECTARE Lab
 {: #team}
@@ -82,7 +82,7 @@ The **HECTARE Lab** (Human Environment CompuTing and Agricultural Research Lab) 
 
 **Postdoctoral scholars**
 
-- **Ella Kirchner** — VT Agricultural & Applied Economics; VT Presidential Postdoctoral Fellow / NASA Harvest (2024–2026)
+- **Ella Kirchner** — VT Agricultural & Applied Economics; VT Presidential Postdoctoral Fellow / NASA Harvest (2024–2026). *Starting August 2026 as an Assistant Professor in Business Economics at Wageningen University.*
 - **Michael J. Cecil** — University of Maryland, Geographical Sciences / NASA Harvest (2024–present)
 
 **Graduate students (co-advised)**
