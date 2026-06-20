@@ -20,9 +20,9 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 ## News & opportunities
 {: #news}
 
-> 🔬 **I’m hiring a Research Associate / Research Scientist** in computational spatial science and agricultural insurance, affiliated with [NASA Harvest](https://nasaharvest.org/). If you have strong quantitative, remote-sensing, or applied-economics skills, please [email me](mailto:elinor@vt.edu) with your CV and research interests. *(Application link coming soon — replace this line with the posting URL.)*
+> 🔬 **I’m hiring a Research Associate / Research Scientist** in computational spatial science and agricultural insurance, affiliated with [NASA Harvest](https://nasaharvest.org/). See the [full job description](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit) for details, and [email me](mailto:elinor@vt.edu) with your CV and research interests by **July 30, 2026**.
 
-> 🗓️ **AGU 2026 — call for abstracts (now open).** I’m co-convening **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Natural Hazards section · Session ID 282342). If your work bridges science, practice, and policy on natural-hazard risk, please consider submitting. *(AGU abstract submission link and deadline forthcoming.)*
+> 🗓️ **AGU 2026 — call for abstracts (now open).** I’m co-convening **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Natural Hazards section · Session ID 282342). If your work bridges science, practice, and policy on natural-hazard risk, please [submit an abstract](https://agu.confex.com/agu/agu26/prelim.cgi/Home/0) by **5 August 2026** (23:59 EDT / 03:59 UTC).
 
 > 🎓 **Prospective students:** I’m actively recruiting motivated PhD and MS students, postdocs, and research assistants interested in risk prediction and management, and I have opportunities for Virginia Tech undergraduates. **Prospective PhD students** — apply to the [VT AAEC program](https://aaec.vt.edu/academics/graduate/visiting.html) and mention my name. **Current VT students, prospective postdocs, and RAs** — email me a note on your interests, relevant skills, and your CV/resume.
 
