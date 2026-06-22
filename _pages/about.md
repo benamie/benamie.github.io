@@ -23,13 +23,13 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 
 <div class="news-feed" markdown="1">
 
-🔬 **Jun 2026 · Now hiring — Research Associate / Research Scientist.** A position in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/). See the [job description and application instructions](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit); please prepare a complete application package and submit per the instructions in the posting. *Priority application deadline: July 30, 2026.*
+<p class="news-highlight" markdown="1"><span class="flip-x">📣</span> **Jun 2026 · Now hiring — Research Associate / Research Scientist.** A position with me in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/) and based at Virginia Tech. See the [job description and application instructions here](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit). *Priority application deadline: July 30, 2026.*</p>
 
 🗓️ **Jun 2026 · AGU 2026 — call for abstracts.** I’m co-convening a session at the fall meeting of the AGU **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Natural Hazards · Session 282342). [Submit an abstract](https://agu.confex.com/agu/agu26/prelim.cgi/Home/0) by **5 August 2026** (23:59 EDT / 03:59 UTC).
 
-🗣️ **Jun 2026 · Presenting at the [Geofield Convening](https://www.aiddata.org/events/geofield-2026-convening).** I’m presenting our open-access *Journal of Development Economics* [paper](https://www.sciencedirect.com/science/article/pii/S0304387825002093) and *Geospatial Impact Evaluation in Practice* book chapters.
+🗣️ **Jun 2026 · Presenting at the [Geofield Convening](https://www.aiddata.org/events/geofield-2026-convening) at the Food and Agriculture Organization (FAO) in Rome.** I’m presenting our open-access *Journal of Development Economics* [paper](https://www.sciencedirect.com/science/article/pii/S0304387825002093) and *Geospatial Impact Evaluation in Practice* book chapters.
 
-🏆 **2026 · Anne Carroll earns the Agricultural Risk Analysis travel award.** Anne was the single person selected for the Agricultural Risk Analysis Graduate Student Travel Award to present at the annual meeting of SCC-76 (Coordinating Committee on Economics and Management of Risk in Agriculture) at the Federal Reserve Bank of Kansas City.
+🎉 **2026 · Anne Carroll earns the Agricultural Risk Analysis travel award.** Anne was the single recipient of the Agricultural Risk Analysis Graduate Student Travel Award to present at the SCC-76 (Coordinating Committee on Economics and Management of Risk in Agriculture) meeting at the Federal Reserve Bank of Kansas City.
 
 📄 **2026 · New public comment to USDA.** Along with the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres, I submitted a public comment synthesizing the use of Earth observation data to strengthen US Agricultural Statistics, in response to a USDA Request for Information on Opportunities, Challenges, and Emerging Areas in Statistical Data, Analysis, and Research (FRN 2026-03497). [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
 
