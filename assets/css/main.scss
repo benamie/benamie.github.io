@@ -93,6 +93,9 @@ html {
 /* horizontally flip an inline emoji/icon */
 .flip-x { display: inline-block; transform: scaleX(-1); }
 
+/* keep the sidebar location (map-pin) icon and its text on the same line */
+.author__urls li .fa-map-marker + a { display: inline; }
+
 /* numbered, compact publication lists */
 ol.pub-list { margin: 0.3em 0 1.2em 1.5em; padding: 0; }
 ol.pub-list li { margin-bottom: 0.6em; line-height: 1.45; }

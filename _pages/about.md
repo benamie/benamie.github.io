@@ -16,24 +16,24 @@ Institutionally, I'm an Assistant Professor at Virginia Tech in the [Agricultura
 
 Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovation Lab](https://basis.ucdavis.edu/) in the Agricultural and Resource Economics department at UC Davis, following my Ph.D. from the [Emmett Interdisciplinary Program in Environment and Resources (E-IPER)](https://pangea.stanford.edu/eiper) at Stanford. Before grad school I was a research analyst at [Climate Policy Initiative](https://climatepolicyinitiative.org/), after studying economics and environmental science at UNC-Chapel Hill. 
 
-**Selected current projects & funding** (see [CV](https://benamie.github.io/files/cv_Benami_june2026.pdf) for dates and details)
+**Full CV linked [here](https://benamie.github.io/files/cv_Benami_june2026.pdf)**
 
 ## News & announcements
 {: #news}
 
 <div class="news-feed" markdown="1">
 
-<p class="news-highlight" markdown="1"><span class="flip-x">📣</span> **Jun 2026 · Now hiring — Research Associate / Research Scientist.** A position with me in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/) and based at Virginia Tech. See the [job description and application instructions here](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit). *Priority application deadline: July 30, 2026.*</p>
+<p class="news-highlight" markdown="1"><span class="flip-x">📣</span> **Jun 2026 · Now hiring — Research Associate / Research Scientist.** A position with me in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/) and based at Virginia Tech. See the [job description and application instructions here](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit). **Priority application deadline: July 30, 2026.**</p>
 
 🗓️ **Jun 2026 · AGU 2026 — call for abstracts.** I’m co-convening a session at the fall meeting of the AGU **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Natural Hazards · Session 282342). [Submit an abstract](https://agu.confex.com/agu/agu26/prelim.cgi/Home/0) by **5 August 2026** (23:59 EDT / 03:59 UTC).
 
 🗣️ **Jun 2026 · Presenting at the [Geofield Convening](https://www.aiddata.org/events/geofield-2026-convening) at the Food and Agriculture Organization (FAO) in Rome.** I’m presenting our open-access *Journal of Development Economics* [paper](https://www.sciencedirect.com/science/article/pii/S0304387825002093) and *Geospatial Impact Evaluation in Practice* book chapters.
 
-🎉 **2026 · Anne Carroll earns the Agricultural Risk Analysis travel award.** Anne was the single recipient of the Agricultural Risk Analysis Graduate Student Travel Award to present at the SCC-76 (Coordinating Committee on Economics and Management of Risk in Agriculture) meeting at the Federal Reserve Bank of Kansas City.
+📄 **Apr 2026 · New public comment to USDA.** Along with the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres, I submitted a public comment synthesizing the use of Earth observation data to strengthen US Agricultural Statistics, in response to a USDA Request for Information on Opportunities, Challenges, and Emerging Areas in Statistical Data, Analysis, and Research (FRN 2026-03497). [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
 
-📄 **2026 · New public comment to USDA.** Along with the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres, I submitted a public comment synthesizing the use of Earth observation data to strengthen US Agricultural Statistics, in response to a USDA Request for Information on Opportunities, Challenges, and Emerging Areas in Statistical Data, Analysis, and Research (FRN 2026-03497). [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
+🎉 **March 2026 · Anne Carroll earns the Agricultural Risk Analysis travel award.** Anne was the single recipient of the Agricultural Risk Analysis Graduate Student Travel Award to present at the SCC-76 (Coordinating Committee on Economics and Management of Risk in Agriculture) meeting at the Federal Reserve Bank of Kansas City.
 
-🎉 **2025 · Ella Kirchner named a VT Presidential Postdoctoral Fellow.** [Read more](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships/current-fellows/kirchner-ella.html).
+🎉 **March 2025 · Ella Kirchner named a VT Presidential Postdoctoral Fellow.** [Read more](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships/current-fellows/kirchner-ella.html).
 
 🎓 **Ongoing · Recruiting students.** I’m actively recruiting PhD and MS students, postdocs, and research assistants interested in risk prediction and management, with opportunities for Virginia Tech undergraduates. Prospective PhD students: apply to the [VT AAEC program](https://aaec.vt.edu/academics/graduate/visiting.html) and mention my name.
 
@@ -64,16 +64,16 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 
 Full course descriptions, syllabi, and guidance for students (including requesting reference letters) are on my **[Teaching & Mentoring](/teaching-and-mentoring/)** page.
 
-- **Remote Sensing in the Social Sciences** — graduate course, instructor of record (Fall 2021, 2022, 2024). How remotely sensed data can be used in social science research, with hands-on deployment of publicly available data for applications in environment, agriculture, and economic development.
-- **Climate Risk Management** — upper-level undergraduate course, instructor of record (Fall 2023). The science and economics of extreme weather and climate change — how we detect shifting weather patterns, their implications for society, and policy options to manage the risks.
-- **Environmental & Sustainable Development Economics** — undergraduate course, instructor of record (Spring 2021 & 2022). How approaches from economics can help society weigh policy questions in pollution, climate, and sustainable development; how environmental problems and policies vary between developing and developed country contexts. 
+- **Remote Sensing in the Social Sciences** — graduate course, instructor of record (Fall 2021, 2022, 2024, 2026). How remotely sensed data is and can be appropriately used in social science research, with a focus on readings in environment, agriculture, and economic development and hands-on lab exercises with cloud-based geospatial platforms. 
+- **Climate Risk Management** — upper-level undergraduate course, instructor of record (Fall 2023). The science and economics of extreme weather and climate change; how we detect shifting weather patterns, their implications for society, and policy options to manage the risks.
+- **Environmental & Sustainable Development Economics** — undergraduate course, instructor of record (Spring 2021, 2022, 2027). How approaches from economics can help society weigh policy questions relating to pollution and sustainable development; how environmental problems and policies vary between developing and developed country contexts. 
 
 **Prior experience**
 
-- **The Economics of Index Insurance** — co-instructor, short course for remote-sensing specialists (Nairobi, Kenya, Summer 2019). An applied short course on the design, pricing, and evaluation of agricultural index insurance for managing risk.
+- **The Economics of Index Insurance** — co-instructor, short course for remote-sensing specialists (Nairobi, Kenya, Summer 2019). An applied short course on the design, pricing, and evaluation of agricultural index insurance for managing risk - for pracitioners.
 - **World Food Economy** (ECON/ESS 106/206) — teaching assistant, Stanford University (undergraduate and graduate). The economics of global food production, agricultural markets, hunger, and food and environmental policy.
 - **Environmental Governance** (ENVRES 250) — teaching assistant, Stanford University (undergraduate). Seminar on governing shared, common-pool resources (fisheries, forests, and water), and the human behaviors and institutions that shape environmental outcomes in socio-environmental systems. 
-- **Energy in Transition: De-Carbonizing America** — teaching assistant, University of North Carolina at Chapel Hill (honors seminar). The policies, technologies, and economics of the U.S. transition to lower-carbon energy.
+- **Energy in Transition: De-Carbonizing America** — teaching assistant, University of North Carolina at Chapel Hill (honors undergraduate seminar). The policies, technologies, and economics of the U.S. transition to lower-carbon energy.
 
 ## HECTARE Lab
 {: #team}
