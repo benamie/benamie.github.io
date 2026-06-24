@@ -62,6 +62,34 @@ html {
 
 .page__title { font-size: $type-size-2; margin-bottom: 0.4em; }
 
+/* maroon accent under section headings */
+.page__content h2 { border-bottom: 2px solid #861F41; }
+
+/* homepage banner: crop the hero into a clean banner strip */
+.page__hero-image {
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 4px;
+
+  @include breakpoint($medium) { height: 300px; }
+}
+
+/* caption sits as a gray line below the banner, not overlaid on it */
+.page__hero-caption {
+  position: static;
+  display: block;
+  margin: 0.35em 0 0;
+  padding: 0;
+  background: none;
+  opacity: 1;
+  color: $gray;
+  font-style: italic;
+  text-align: right;
+
+  a { color: $gray; text-decoration: underline; }
+}
+
 /* news/announcements feed: highlight box with maroon accent bar + divider lines */
 .news-feed {
   background: #faf7f8;
@@ -72,9 +100,9 @@ html {
 }
 .news-feed p {
   margin: 0;
-  padding: 0.55em 0;
+  padding: 0.7em 0;
   border-top: 1px solid #ece2e5;
-  line-height: 1.45;
+  line-height: 1.5;
 }
 .news-feed p:first-child { border-top: 0; padding-top: 0.15em; }
 .news-feed p:last-child { padding-bottom: 0.15em; }
