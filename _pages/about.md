@@ -23,7 +23,7 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 
 <div class="news-feed" markdown="1">
 
-<p class="news-highlight" markdown="1"><span class="flip-x">📣</span> **Jun 2026 · Now hiring — Research Associate / Research Scientist.** A position with me in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/) and based at Virginia Tech. See the [job description and application instructions here](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit). **Priority application deadline: July 30, 2026.**</p>
+<p class="news-highlight" markdown="1"><span class="flip-x">📣</span> **Jun 2026 · Now hiring — Research Associate or Research Scientist.** A position in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/) and based at Virginia Tech with me. See the [job description and application instructions here](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit). **Priority application deadline: July 30, 2026.**</p>
 
 🗓️ **Jun 2026 · AGU 2026 — call for abstracts.** I’m co-convening a session at the fall meeting of the AGU **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Natural Hazards · Session 282342). [Submit an abstract](https://agu.confex.com/agu/agu26/prelim.cgi/Home/0) by **5 August 2026** (23:59 EDT / 03:59 UTC).
 
