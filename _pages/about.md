@@ -54,13 +54,13 @@ Institutionally, I'm an Assistant Professor at Virginia Tech in the [Agricultura
 {% assign working = site.publications | where: "category", "working" | sort: "date" | reverse %}
 {% assign reports = site.publications | where: "category", "reports" | sort: "date" | reverse %}
 
-<ol class="pub-list">{% for post in manuscripts %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}</li>{% endfor %}</ol>
+<ol class="pub-list">{% for post in manuscripts %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}</li>{% endfor %}</ol>
 
 ### Working papers
-<ol class="pub-list">{% for post in working %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}</li>{% endfor %}</ol>
+<ol class="pub-list">{% for post in working %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}</li>{% endfor %}</ol>
 
 ### Reports & other publications
-<ol class="pub-list">{% for post in reports %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}</li>{% endfor %}</ol>
+<ol class="pub-list">{% for post in reports %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}</li>{% endfor %}</ol>
 
 ## Teaching
 {: #teaching}
