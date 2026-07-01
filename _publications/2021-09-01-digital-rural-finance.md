@@ -7,7 +7,7 @@ date: 2021-09-01
 venue: "Applied Economic Perspectives and Policy"
 paperurl: "https://doi.org/10.1002/aepp.13151"
 press:
-  - label: "UC Davis"
+  - label: "UC Davis News"
     url: "https://basis.ucdavis.edu/news/how-digital-technology-reshaping-rural-microfinance"
   - label: "AAEA"
     url: "https://www.aaea.org/about-aaea/media--public-relations/press-releases/can-digital-technologies-reshape-rural-microfinance"
