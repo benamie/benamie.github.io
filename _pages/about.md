@@ -28,6 +28,8 @@ Institutionally, I'm an Assistant Professor at Virginia Tech in the [Agricultura
 
 <p class="news-highlight" markdown="1"><span class="flip-x">📣</span> **Jun 2026 · Now hiring — Research Associate or Research Scientist.** A position in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/) and based at Virginia Tech with me. See the [job description and application instructions here](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit). **Priority application deadline: July 30, 2026.**</p>
 
+💺 **Hoping to take Remote Sensing in the Social Sciences (AAEC/FREC/GEOG 5544) in Fall 2026?** The course is currently full. I am working with administrators to expand capacity, either by raising the cap or moving to a larger room. If you want to enroll and cannot, please [email me](mailto:elinor@vt.edu?subject=AAEC%2FFREC%2FGEOG%205544%20-%20Fall%202026%20-%20Course%20Enrollment%20Request) with "AAEC/FREC/GEOG 5544" in the subject line so I can track how many students are affected.
+
 🗓️ **AGU 2026 — call for abstracts.** I’m co-convening a session **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Session #282342). [Submit an abstract](https://agu.confex.com/agu/agu26/prelim.cgi/Home/0) by **5 August 2026** (23:59 EDT / 03:59 UTC).
 
 🗣️ **Jun 2026 · Presenting at the [Geofield Convening](https://www.aiddata.org/events/geofield-2026-convening) at the Food and Agriculture Organization (FAO) in Rome** on our open-access paper in the [*Journal of Development Economics*](https://www.sciencedirect.com/science/article/pii/S0304387825002093) and *Geospatial Impact Evaluation in Practice* book chapters.
