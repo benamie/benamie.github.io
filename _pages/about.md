@@ -28,7 +28,7 @@ Institutionally, I'm an Assistant Professor at Virginia Tech in the [Agricultura
 
 <p class="news-highlight" markdown="1"><span class="flip-x">📣</span> **Jun 2026 · Now hiring — Research Associate or Research Scientist.** A position in Agricultural Economics and Remote Sensing, affiliated with [NASA Harvest](https://nasaharvest.org/) and based at Virginia Tech with me. See the [job description and application instructions here](https://docs.google.com/document/d/1Unjme3blWjJTNJ9is0-UMJTaq6uPuQ6FJkoyuBL3LgE/edit). **Priority application deadline: July 30, 2026.**</p>
 
-💺 **Hoping to take Remote Sensing in the Social Sciences (AAEC/FREC/GEOG 5544) in Fall 2026?** The course is currently full. I am working with administrators to expand capacity, either by raising the cap or moving to a larger room. If you want to enroll and cannot, please [email me](mailto:elinor@vt.edu?subject=AAEC%2FFREC%2FGEOG%205544%20-%20Fall%202026%20-%20Course%20Enrollment%20Request) with "AAEC/FREC/GEOG 5544" in the subject line so I can track how many students are affected.
+<p class="news-course" markdown="1">💺 **Hoping to take Remote Sensing in the Social Sciences (AAEC/FREC/GEOG 5544) in Fall 2026?** I have heard from multiple students that the course is listed as full. I am working with administrators to expand capacity, either by raising the cap or moving to a larger room. If you also want to enroll and cannot, please [email me](mailto:elinor@vt.edu?subject=AAEC%2FFREC%2FGEOG%205544%20-%20Fall%202026%20-%20Course%20Enrollment%20Request) with "AAEC/FREC/GEOG 5544" in the subject line so I can track how many students are affected.</p>
 
 🗓️ **AGU 2026 — call for abstracts.** I’m co-convening a session **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Session #282342). [Submit an abstract](https://agu.confex.com/agu/agu26/prelim.cgi/Home/0) by **5 August 2026** (23:59 EDT / 03:59 UTC).
 
@@ -87,13 +87,13 @@ The **HECTARE Lab** (Human Environment CompuTing and Agricultural Research Lab) 
 
 **Postdoctoral scholars**
 
-- **Ella Kirchner** — VT Agricultural & Applied Economics; VT Presidential Postdoctoral Fellow / NASA Harvest (2024–2026). *Starting August 2026 as an Assistant Professor in Business Economics at Wageningen University.* 
-- **Michael J. Cecil** — University of Maryland, Geographical Sciences / NASA Harvest (2024–present)
+- **[Ella Kirchner](https://www.linkedin.com/in/ella-kirchner-4993a8150/)** — VT Agricultural & Applied Economics; VT Presidential Postdoctoral Fellow / NASA Harvest (2024–2026). *Starting August 2026 as an Assistant Professor in Business Economics at Wageningen University.* 
+- **[Michael J. Cecil](https://geog.umd.edu/facultyprofile/cecil/michael)** — University of Maryland, Geographical Sciences / NASA Harvest (2024–present)
 
 **Graduate students**
 
-- **Anne Bell Carroll** — PhD, Agricultural & Applied Economics (expected ~2029)
-- **Alex Saunders** — PhD, Geography, Development & Environment, University of Arizona (expected ~2027)
+- **[Anne Bell Carroll](https://www.linkedin.com/in/anne-carroll-9a56b9253/)** — PhD, Agricultural & Applied Economics (expected ~2029)
+- **[Alex Saunders](https://alex-saunders00.github.io/)** — PhD, Geography, Development & Environment, University of Arizona (expected ~2027)
 - **Ivy (Shengke) Wang** — PhD, Agricultural & Applied Economics (expected ~2031)
 
 **Additional Advisees**
@@ -109,7 +109,7 @@ Current and former advisees, as well as their last known position:
 - **[Armine Poghosyan](https://www.linkedin.com/in/poghosyan-armine/)** — PhD, Agricultural & Applied Economics, 2024 (co-advised): assistant professor, Tennessee State University
 - **[Ramaraja Ramanujan](https://www.linkedin.com/in/ramaraja)** — MS, Computer Science, 2024 (co-advised): Microsoft 
 - **[Kristen Swedberg](https://kristen-swedberg.com/)** — PhD, Agricultural & Applied Economics, 2024 (committee): PRODiG+ Postdoctoral Fellow in the Department of Public Administration and Policy at Binghamton University 
-- **Maguette Sembene** — MS, Agricultural & Applied Economics, 2023 (committee): PhD Student, Virginia Tech Agricultural & Applied Economics 
+- **[Maguette Sembene](https://aaec.vt.edu/people/phd_students.html)** — MS, Agricultural & Applied Economics, 2023 (committee): PhD Student, Virginia Tech Agricultural & Applied Economics 
 - **[Riley Rudd](https://www.linkedin.com/in/riley-rudd-1166a3192)** — Data Science for the Public Good mentee & Undergrad Research Assistant: Data Engineer, MITRE 
 - **[Ari Liverpool](https://www.linkedin.com/in/ari-liverpool)** — Undergrad Research Assistant: Business Analyst, Capital One
 

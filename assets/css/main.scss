@@ -118,6 +118,17 @@ html {
 }
 .news-feed .news-highlight strong { color: #0B3D91; }
 
+/* course-enrollment notice — VT burnt orange, same block style */
+.news-feed .news-course {
+  color: #7a3c00;
+  background: #fdf3e7;
+  border-left: 3px solid #C64600; /* VT burnt orange */
+  border-radius: 3px;
+  padding: 0.55em 0.7em;
+  margin: 0.3em 0;
+}
+.news-feed .news-course strong { color: #963500; }
+
 /* horizontally flip an inline emoji/icon */
 .flip-x { display: inline-block; transform: scaleX(-1); }
 
