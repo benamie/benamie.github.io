@@ -32,6 +32,8 @@ Institutionally, I'm an Assistant Professor at Virginia Tech in the [Agricultura
 
 🗓️ **AGU 2026 — call for abstracts.** I’m co-convening a session **NH011: Applications at the Intersection of Science, Practice, and Policy to Proactively Address Natural Hazard Risk** (Session #282342). [Submit an abstract](https://agu.confex.com/agu/agu26/prelim.cgi/Home/0) by **5 August 2026** (23:59 EDT / 03:59 UTC).
 
+🎤 **AGU 2026 · Invited speaker.** I’ll be speaking in the joint [NASA Harvest](https://nasaharvest.org/)/[NASA Acres](https://www.nasaacres.org/) session **GC108: Satellite Solutions: Agricultural Monitoring Through Remote Sensing** on the opportunities (and challenges) of integrating Earth observation into agricultural insurance and finance.
+
 🗣️ **Jun 2026 · Presenting at the [Geofield Convening](https://www.aiddata.org/events/geofield-2026-convening) at the Food and Agriculture Organization (FAO) in Rome** on our open-access paper in the [*Journal of Development Economics*](https://www.sciencedirect.com/science/article/pii/S0304387825002093) and *Geospatial Impact Evaluation in Practice* book chapters.
 
 📄 **Apr 2026 · New public comment to USDA.** Along with the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres, I submitted a public comment synthesizing the use of Earth observation data to strengthen US Agricultural Statistics, in response to a USDA Request for Information on Opportunities, Challenges, and Emerging Areas in Statistical Data, Analysis, and Research (FRN 2026-03497). [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
