@@ -1,10 +1,10 @@
 ---
 title: "Integrating Weather and Land Cover Data into Geospatial Impact Evaluations"
 collection: publications
-category: working
+category: manuscripts
 permalink: /publication/2026-06-10-weather-landcover-gie
 date: 2026-06-10
-venue: "Geospatial Impact Evaluation in Practice (eds. A. BenYishay & K. Singh) — accepted, in copy-editing"
-citation: "Benami, E., Cecil, M., Josephson, A., Maskell, G., Michler, J. (accepted, in copy-editing). &quot;Integrating Weather and Land Cover Data into Geospatial Impact Evaluations.&quot; In <i>Geospatial Impact Evaluation in Practice</i> (eds. A. BenYishay &amp; K. Singh)."
+venue: "Geospatial Impact Evaluation in Practice (eds. A. BenYishay & K. Singh)"
+citation: "Benami, E., Cecil, M., Josephson, A., Maskell, G., Michler, J. (forthcoming). &quot;Integrating Weather and Land Cover Data into Geospatial Impact Evaluations.&quot; In <i>Geospatial Impact Evaluation in Practice</i> (eds. A. BenYishay &amp; K. Singh)."
 ---
 
