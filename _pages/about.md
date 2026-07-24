@@ -38,11 +38,11 @@ Institutionally, I'm an Assistant Professor at Virginia Tech in the [Agricultura
 
 📄 **Apr 2026 · New public comment to USDA.** Along with the leadership of [NASA Harvest](https://nasaharvest.org/) and NASA Acres, I submitted a public comment synthesizing the use of Earth observation data to strengthen US Agricultural Statistics, in response to a USDA Request for Information on Opportunities, Challenges, and Emerging Areas in Statistical Data, Analysis, and Research (FRN 2026-03497). [Read it](https://www.regulations.gov/comment/USDA-2026-0034-0218).
 
-🎉 **March 2026 · Anne Carroll received the (sole) Agricultural Risk Analysis travel award** to present our work at the SCC-76 (Coordinating Committee on Economics and Management of Risk in Agriculture) meeting at the Federal Reserve Bank of Kansas City.
+🎉 **March 2026 · Anne Carroll received the (sole) Agricultural Risk Analysis travel award** to present our work on insurance enrollment responses to seasonal forecasts at the SCC-76 (Coordinating Committee on Economics and Management of Risk in Agriculture) meeting at the Federal Reserve Bank of Kansas City.
 
 🎉 **March 2025 · Ella Kirchner named a VT Presidential Postdoctoral Fellow.** [Read more](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships/current-fellows/kirchner-ella.html).
 
-🎓 **Ongoing · Recruiting students.** I’m actively recruiting PhD and MS students, postdocs, and research assistants interested in risk prediction and management, with opportunities for Virginia Tech undergraduates. Prospective PhD students: apply to the [VT AAEC program](https://aaec.vt.edu/academics/graduate/visiting.html) and mention my name.
+🎓 **Ongoing · Recruiting students.** I’m actively recruiting PhD and MS students, postdocs, and research assistants interested in risk prediction and management, with opportunities for Virginia Tech undergraduates. Prospective graduate students: apply to the [VT AAEC program](https://aaec.vt.edu/academics/graduate/visiting.html) and mention my name; Prospective Postdocs - reach out well in advance with a few proposed research ideas we could work on together.
 
 📰 **In the news.** Coverage of [Virginia Tech’s alliance to advance soil and water conservation practices agriculture](https://news.vt.edu/articles/2024/05/cals-slabach.html) and [our work with NASA Harvest on agricultural insurance](https://news.vt.edu/articles/2024/01/cals_nasa.html).
 
@@ -58,13 +58,13 @@ Institutionally, I'm an Assistant Professor at Virginia Tech in the [Agricultura
 {% assign working = site.publications | where: "category", "working" | sort: "date" | reverse %}
 {% assign reports = site.publications | where: "category", "reports" | sort: "date" | reverse %}
 
-<ol class="pub-list">{% for post in manuscripts %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}{% if post.press %}{% for item in post.press %} <a class="pub-link" href="{{ item.url }}">[{{ item.label }}]</a>{% endfor %}{% endif %}</li>{% endfor %}</ol>
+<ol class="pub-list" reversed>{% for post in manuscripts %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}{% if post.press %}{% for item in post.press %} <a class="pub-link" href="{{ item.url }}">[{{ item.label }}]</a>{% endfor %}{% endif %}</li>{% endfor %}</ol>
 
 ### Working papers
-<ol class="pub-list">{% for post in working %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}{% if post.press %}{% for item in post.press %} <a class="pub-link" href="{{ item.url }}">[{{ item.label }}]</a>{% endfor %}{% endif %}</li>{% endfor %}</ol>
+<ol class="pub-list" reversed>{% for post in working %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}{% if post.press %}{% for item in post.press %} <a class="pub-link" href="{{ item.url }}">[{{ item.label }}]</a>{% endfor %}{% endif %}</li>{% endfor %}</ol>
 
 ### Reports & other publications
-<ol class="pub-list">{% for post in reports %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}{% if post.press %}{% for item in post.press %} <a class="pub-link" href="{{ item.url }}">[{{ item.label }}]</a>{% endfor %}{% endif %}</li>{% endfor %}</ol>
+<ol class="pub-list" reversed>{% for post in reports %}<li>{{ post.citation }}{% if post.paperurl %} <a class="pub-link" href="{{ post.paperurl }}">[link]</a>{% endif %}{% if post.pdf %} <a class="pub-link" href="{{ post.pdf }}">[pdf]</a>{% endif %}{% if post.relatedurl %} <a class="pub-link" href="{{ post.relatedurl }}">[{{ post.relatedlabel }}]</a>{% endif %}{% if post.press %}{% for item in post.press %} <a class="pub-link" href="{{ item.url }}">[{{ item.label }}]</a>{% endfor %}{% endif %}</li>{% endfor %}</ol>
 
 ## Teaching
 {: #teaching}
