@@ -15,7 +15,7 @@ Climate change poses a series of fundamental challenges to sustaining human live
 
 *An Honors Faculty-Student agreement option is available for students seeking an honors designation for the course. Reach out within the first two weeks of class to get this squared away!*
 
-**Remote Sensing for Social Scientists** (Graduate · AAEC 5544 / GEOG 5544 / FREC 5544 — Fall) — [Syllabus (PDF)](/files/Syllabus_AAEC5544_RemoteSensingSocialSciences_Fall2022_20sept.pdf)
+**Remote Sensing for Social Scientists** (Graduate · AAEC 5544 / GEOG 5544 / FREC 5544 — Fall) — [Syllabus, Fall 2026 (PDF)](/files/Syllabus_AAEC5544_RemoteSensingSocialSciences_Fall2026_Sept8.pdf)
 
 The increasing accessibility of frequently updated geospatial information from remote sensors is enabling novel ways to detect changes in environmental conditions, communities, and even cash flows. This geospatial data revolution has in turn been opening up new ways of enhancing environmental compliance, supporting sustainable development efforts, and even managing crisis relief logistics. Yet, the increasing accessibility also comes with the peril of potential misuse, however, and the possibility to bamboozle instead of enlighten. This graduate level course examines how remotely sensed data have and can be used in social science research, with a focus on the practical deployment of publicly available remote sensing data for applications in environment, agriculture, and economic development as well as in your own research.
 
