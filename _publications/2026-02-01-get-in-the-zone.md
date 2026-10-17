@@ -1,5 +1,5 @@
 ---
-title: "Get in the Zone: The Risk-Adjusted Welfare Effects of Using Machine Learning vs. Administrative Borders to Define Agricultural Index Insurance Zones"
+title: "Get in the Zone: The Risk-Adjusted Welfare Effects of Data-Driven vs. Administrative Borders for Index Insurance Zones"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-02-01-get-in-the-zone
@@ -11,6 +11,6 @@ press:
     url: "https://aaec.vt.edu/news/articles/cropinsurance-2026.html"
   - label: "NASA Harvest News"
     url: "https://www.nasaharvest.org/news/how-earth-observation-data-can-help-design-high-performing-agricultural-insurance"
-citation: "Kirchner, E.*, Benami, E.*, Hobbs, A.W., Carter, M.R., Jin, Z. (2026). &quot;Get in the Zone: The Risk-Adjusted Welfare Effects of Using Machine Learning vs. Administrative Borders to Define Agricultural Index Insurance Zones.&quot; <i>Journal of Development Economics</i>. *Joint first authors."
+citation: "Kirchner, E.*<span class='advisee' title='Advisee (graduate student or postdoc) at the time of the work'>&#9670;</span>, Benami, E.*, Hobbs, A.W., Carter, M.R., Jin, Z. (2026). &quot;Get in the Zone: The Risk-Adjusted Welfare Effects of Data-Driven vs. Administrative Borders for Index Insurance Zones.&quot; <i>Journal of Development Economics</i> 180: 103658. *Joint first authors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Can Digital Technologies Reshape Rural Finance? Implications for Credit, Insurance, and Saving"
+title: "Can Digital Technologies Reshape Rural Microfinance? Implications for Savings, Credit, &amp; Insurance"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-09-01-digital-rural-finance
@@ -11,6 +11,6 @@ press:
     url: "https://basis.ucdavis.edu/news/how-digital-technology-reshaping-rural-microfinance"
   - label: "AAEA"
     url: "https://www.aaea.org/about-aaea/media--public-relations/press-releases/can-digital-technologies-reshape-rural-microfinance"
-citation: "Benami, E., Carter, M.R. (2021). &quot;Can Digital Technologies Reshape Rural Finance? Implications for Credit, Insurance, and Saving.&quot; <i>Applied Economic Perspectives and Policy</i>."
+citation: "Benami, E., Carter, M.R. (2021). &quot;Can Digital Technologies Reshape Rural Microfinance? Implications for Savings, Credit, &amp; Insurance.&quot; <i>Applied Economic Perspectives and Policy</i> 43(4): 1196-1220."
 ---
 

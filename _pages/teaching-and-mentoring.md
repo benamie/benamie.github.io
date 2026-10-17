@@ -19,7 +19,11 @@ Climate change poses a series of fundamental challenges to sustaining human live
 
 The increasing accessibility of frequently updated geospatial information from remote sensors is enabling novel ways to detect changes in environmental conditions, communities, and even cash flows. This geospatial data revolution has in turn been opening up new ways of enhancing environmental compliance, supporting sustainable development efforts, and even managing crisis relief logistics. Yet, the increasing accessibility also comes with the peril of potential misuse, however, and the possibility to bamboozle instead of enlighten. This graduate level course examines how remotely sensed data have and can be used in social science research, with a focus on the practical deployment of publicly available remote sensing data for applications in environment, agriculture, and economic development as well as in your own research.
 
-**Environmental & Sustainable Development Economics** (Undergraduate · AAEC 3324 — Spring) — [Syllabus (PDF)](/files/Syllabus_AAEC3324_EnviroSustainableDevtEconomics_18Jan2022_v2.pdf)
+**Environmental Economic Analysis & Management** (Undergraduate · AAEC 4314 — Spring, new Spring 2027) — syllabus coming
+
+A senior-level course applying quantitative methods and computer-aided tools to environmental problems: measuring costs and benefits, evaluating management and policy alternatives, and communicating the results. Builds on AAEC 3324 or an equivalent environmental economics course.
+
+**Environmental & Sustainable Development Economics** (Undergraduate · AAEC 3324 — last taught Spring 2022) — [Syllabus (PDF)](/files/Syllabus_AAEC3324_EnviroSustainableDevtEconomics_18Jan2022_v2.pdf)
 
 Economics is the study of scarcity and choice. This course examines how economics can be used to manage scarce environmental resources, with a focus on approaches used to assess the costs and benefits of various policy designs. We can then apply these concepts to address a series of current policy questions, such as what are the impacts of strengthening or relaxing air and water pollution regulations, and how are those impacts distributed? What are the costs of climate change in the U.S. and abroad, and what are the trade-offs of different policy options to manage those costs? What is "sustainable development," and how may environmental problems differ in developing countries?
 
