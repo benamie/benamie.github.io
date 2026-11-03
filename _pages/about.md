@@ -28,6 +28,8 @@ Previously, I was a postdoc in the [Markets, Risk, and Resilience (MRR) Innovati
 
 <div class="news-feed" markdown="1">
 
+🌍 **2026 · New Gates Foundation grant: ADAPT-Kenya.** I’m part of the team awarded a Gates Foundation grant for **AI-enabled Data for Agriculture Products & Transformation (ADAPT-Kenya)**, a [NASA Harvest](https://nasaharvest.org/)-led project (2026–2028) working with Kenya’s Ministry of Agriculture and Microsoft’s AI for Good Lab to build in-season agricultural data from satellite imagery and AI, including crop maps, yield estimates, early warning, and data for insurance services. [Read the UMD story](https://bsos.umd.edu/featured-content/umd-researchers-are-helping-kenya-create-its-own-agricultural-data-infrastructure).
+
 🏛️ **2026 · Appointed to two new advisory roles.** I’ve been appointed to the [National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org/) State of the Profession Panel for the [2028–2037 Decadal Survey for Earth Science and Applications from Space](https://www.nationalacademies.org/our-work/decadal-survey-for-earth-science-and-applications-from-space-2028-2037) and the [Fields of the World](https://fieldsofthe.world/) User Advisory Group at the [Taylor Geospatial Institute](https://taylorgeospatial.org/).
 
 📄 **2026 · New paper accepted at *JAERE*.** [Drop a Line, Submit on Time? Randomized Tailored Reminders Improve Pollution Reporting Timeliness](https://doi.org/10.1086/743349), with Nathanael Jo, Beth Ragnauth, and Daniel E. Ho, has been accepted at the *Journal of the Association of Environmental and Resource Economists*. Over 24,000 tailored notifications to facilities regulated under the Clean Water Act reduced late pollution-discharge reports by 10–20%.
