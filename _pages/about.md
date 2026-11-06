@@ -120,6 +120,7 @@ The **HECTARE Lab** (Human Environment CompuTing and Agricultural REsearch Lab) 
 - **Matthew Mair** — PhD, Agricultural & Applied Economics (expected May 2028)
 - **Yi-Tien Lu** — PhD, Agricultural & Applied Economics (expected May 2029)
 - **Nitheshnirmal Sadhasivam** — PhD, Geosciences (expected May 2027)
+- **[Aatif Dar](https://aatifnisar01.github.io/)** — PhD, Computer Science (committee; expected ~2029)
 
 ## Alumni/ae
 Current and former advisees, as well as their last known position:
